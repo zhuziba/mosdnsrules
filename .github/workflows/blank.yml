@@ -12,6 +12,8 @@ jobs:
       run: |
         wget -O ./accelerated-domains.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
         sed -i "s|server=/||; s|/114.114.114.114||" ./accelerated-domains.china.conf
+        wget -O ./apple.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf
+        sed -i "s|server=/||; s|/114.114.114.114||" ./apple.china.conf
         wget -O ./CN-ip-cidr.txt https://raw.githubusercontent.com/Hackl0us/GeoIP2-CN/release/CN-ip-cidr.txt
         wget -O ./gfw.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
     - name: 'Commit Files'
