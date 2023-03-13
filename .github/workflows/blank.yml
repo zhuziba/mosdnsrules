@@ -19,11 +19,11 @@ jobs:
     - name: 'Commit Files'
       id: commit
       run: |
-        git config --global user.email 10086@qq.com
-        git config --global user.name marsggbo
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
         git add .
-        git commit -m "update" -a
+        git diff --quiet && git diff --staged --quiet || git commit -am '.chmod -x'
     - name: Push Dust
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{secrets.GITHUB_TOKEN}}
