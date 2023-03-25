@@ -15,20 +15,12 @@ jobs:
         mkdir -p ./mosdns/arm64
         mkdir -p ./mosdns/mipsle
         wget -P /tmp  https://github.com/IrineSistiana/mosdns/releases/latest/download/mosdns-linux-amd64.zip
-        unzip /tmp/mosdns-linux-amd64.zip -d /tmp
-        chmod +x /tmp/mosdns
+        unzip /tmp/mosdns-linux-amd64.zip -d ./mosdns/amd64
         mv /tmp/mosdns ./mosdns/amd64/mosdns
-        rm -rf /tmp
         wget -P /tmp  https://github.com/IrineSistiana/mosdns/releases/latest/download/mosdns-linux-arm64.zip
-        unzip /tmp/mosdns-linux-arm64.zip -d /tmp
-        chmod +x /tmp/mosdns
-        mv /tmp/mosdns ./mosdns/arm64/mosdns
-        rm -rf /tmp
+        unzip /tmp/mosdns-linux-arm64.zip -d ./mosdns/arm64
         wget -P /tmp  https://github.com/IrineSistiana/mosdns/releases/download/v5.1.3/mosdns-linux-mipsle-softfloat.zip
-        unzip /tmp/mosdns-linux-mipsle-softfloat.zip -d /tmp
-        chmod +x /tmp/mosdns
-        mv /tmp/mosdns ./mosdns/mipsle/mosdns
-        rm -rf /tmp
+        unzip /tmp/mosdns-linux-mipsle-softfloat.zip -d ./mosdns/mipsle
     - name: Install build dependencies
       run: |
         wget -O ./accelerated-domains.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
