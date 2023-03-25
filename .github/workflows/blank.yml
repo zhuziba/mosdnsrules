@@ -11,9 +11,9 @@ jobs:
     - uses: actions/checkout@v2
     - name: down mosdns
       run: |
-        mkdir -p /mosdns/amd64
-        mkdir -p /mosdns/arm64
-        mkdir -p /mosdns/mipsle
+        mkdir -p ./mosdns/amd64
+        mkdir -p ./mosdns/arm64
+        mkdir -p ./mosdns/mipsle
         wget -P /tmp  https://github.com/IrineSistiana/mosdns/releases/latest/download/mosdns-linux-amd64.zip
         unzip /tmp/mosdns-linux-amd64.zip -d /tmp
         chmod +x /tmp/mosdns
