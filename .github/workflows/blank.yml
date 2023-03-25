@@ -16,7 +16,6 @@ jobs:
         mkdir -p ./mosdns/mipsle
         wget -P /tmp  https://github.com/IrineSistiana/mosdns/releases/latest/download/mosdns-linux-amd64.zip
         unzip /tmp/mosdns-linux-amd64.zip -d ./mosdns/amd64
-        mv /tmp/mosdns ./mosdns/amd64/mosdns
         wget -P /tmp  https://github.com/IrineSistiana/mosdns/releases/latest/download/mosdns-linux-arm64.zip
         unzip /tmp/mosdns-linux-arm64.zip -d ./mosdns/arm64
         wget -P /tmp  https://github.com/IrineSistiana/mosdns/releases/download/v5.1.3/mosdns-linux-mipsle-softfloat.zip
