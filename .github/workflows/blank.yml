@@ -33,11 +33,11 @@ jobs:
       run: |
         mkdir -p ./smartdns
         wget -O ./smartdns/accelerated-domains.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
-        sed -i "s/^/nameserver \//g;s/$/\/china/g" ./smartdns/accelerated-domains.china.conf
+        sed -i "s|server=/|nameserver /|; s|/114.114.114.114|/china|" ./smartdns/accelerated-domains.china.conf
         wget -O ./smartdns/apple.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf
-        sed -i "s/^/nameserver \//g;s/$/\/china/g" ./smartdns/apple.china.conf
+        sed -i "s|server=/|nameserver /|; s|/114.114.114.114|/china|" ./smartdns/apple.china.conf
         wget -O ./smartdns/google.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf
-        sed -i "s/^/nameserver \//g;s/$/\/china/g" ./smartdns/google.china.conf
+        sed -i "s|server=/|nameserver /|; s|/114.114.114.114|/china|" ./smartdns/google.china.conf
         wget -O ./smartdns/gfw.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
         sed -i "s/^/nameserver \//g;s/$/\/proxy/g" ./smartdns/gfw.txt
     - name: Install build dependencies
