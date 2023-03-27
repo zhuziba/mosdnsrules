@@ -15,17 +15,17 @@ jobs:
         mkdir -p ./mosdns/arm64
         mkdir -p ./mosdns/mipsle
         wget -P /tmp  https://github.com/IrineSistiana/mosdns/releases/latest/download/mosdns-linux-amd64.zip
-        unzip /tmp/mosdns-linux-amd64.zip -d ./mosdns/amd64
+        unzip -o /tmp/mosdns-linux-amd64.zip -d ./mosdns/amd64
         rm -rf ./mosdns/amd64/README.md
         rm -rf ./mosdns/amd64/LICENSE
         rm -rf ./mosdns/amd64/config.yaml
         wget -P /tmp  https://github.com/IrineSistiana/mosdns/releases/latest/download/mosdns-linux-arm64.zip
-        unzip /tmp/mosdns-linux-arm64.zip -d ./mosdns/arm64
+        unzip -o /tmp/mosdns-linux-arm64.zip -d ./mosdns/arm64
         rm -rf ./mosdns/arm64/README.md
         rm -rf ./mosdns/arm64/LICENSE
         rm -rf ./mosdns/arm64/config.yaml
         wget -P /tmp  https://github.com/IrineSistiana/mosdns/releases/download/v5.1.3/mosdns-linux-mipsle-softfloat.zip
-        unzip /tmp/mosdns-linux-mipsle-softfloat.zip -d ./mosdns/mipsle
+        unzip -o /tmp/mosdns-linux-mipsle-softfloat.zip -d ./mosdns/mipsle
         rm -rf ./mosdns/mipsle/README.md
         rm -rf ./mosdns/mipsle/LICENSE
         rm -rf ./mosdns/mipsle/config.yaml
