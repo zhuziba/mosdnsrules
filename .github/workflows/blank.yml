@@ -51,6 +51,7 @@ jobs:
         wget -O ./CN-ip-cidr.txt https://raw.githubusercontent.com/Hackl0us/GeoIP2-CN/release/CN-ip-cidr.txt
         wget -O ./gfw.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
         cat ./apple.china.conf ./google.china.conf > ./ecs_cn_domain.txt
+        sed -i "s/^/full:/g" ./ecs_cn_domain.txt
     - name: 'Commit Files'
       id: commit
       run: |
