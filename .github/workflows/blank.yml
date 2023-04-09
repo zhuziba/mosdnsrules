@@ -40,10 +40,6 @@ jobs:
         sed -i "s|server=/|nameserver /|; s|/114.114.114.114|/china|" ./smartdns/google.china.conf
         wget -O ./smartdns/gfw.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
         sed -i "s/^/nameserver \//g;s/$/\/proxy/g" ./smartdns/gfw.txt
-    - name: down unbound
-      run: |
-        mkdir -p ./unbound
-        sed -i 's|\(.*\)|forward-zone:\n  name: "\1"\n  forward-addr: 223.5.5.5\n|' /docker/glider/domain-cn.txt
     - name: Install build dependencies
       run: |
         wget -O ./accelerated-domains.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
