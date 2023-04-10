@@ -56,7 +56,7 @@ jobs:
         sed -i "s/^/full:/g" ./ecs_cn_domain.txt
         mkdir -p ./unbound
         cp ./accelerated-domains.china.conf ./unbound/accelerated-domains.china.unbound.conf
-        sed -i 's|\(.*\)|forward-zone:\n  name: "\1"\n  forward-addr: 119.29.29.29\n|' ./unbound/accelerated-domains.china.unbound.conf
+        sed -i 's|\(.*\)|forward-zone:\n  name: "\1."\n  forward-addr: 119.29.29.29\n|' ./unbound/accelerated-domains.china.unbound.conf
     - name: 'Commit Files'
       id: commit
       run: |
