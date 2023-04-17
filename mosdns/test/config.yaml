@@ -103,5 +103,5 @@ plugins:
        - path: /dns-query  
          exec: main_sequence  
       src_ip_header: "X-Forwarded-For"
-      listen: :4000
+      listen: :8080
       idle_timeout: 30
