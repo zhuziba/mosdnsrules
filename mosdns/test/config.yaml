@@ -51,12 +51,12 @@ plugins:
     type: sequence
     args:
       - exec: prefer_ipv4
-      - exec: $upstreams local-cn
+      - exec: $upstreams aliyun
       - matches: 
         - "!resp_ip &/rules/CN-ip-cidr.txt"
         exec: drop_resp
 
-  - tag: fallback_i
+  - tag: fallback_ip
     type: fallback
     args:
       primary: local
