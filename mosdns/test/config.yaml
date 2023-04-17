@@ -1,0 +1,107 @@
+log:
+  level: info
+  production: false
+  file: "/mosdns/log"   
+api:
+  http: "127.0.0.1:9080" # 在该地址启动 api 接口。
+
+include: []
+
+plugins:
+  # 缓存
+  - tag: lazy_cache
+    type: cache
+    args:
+      size: 100000
+      lazy_cache_ttl: 600
+      dump_file: /mosdns/cache.dump
+      dump_interval: 120
+  #定义dns列表       
+  - tag: upstreams
+    type: forward
+    args:
+      upstreams:
+         - tag: google
+           addr: tls://8.8.4.4:853
+           enable_pipeline: true
+           insecure_skip_verify: true
+         - tag: aliyun      
+           addr: https://dns.alidns.com/dns-query
+           enable_pipeline: true
+           insecure_skip_verify: true
+
+  - tag: local-cn
+    type: sequence
+    args:
+      - exec: prefer_ipv4
+      - exec: $upstreams aliyun 
+  - tag: google-gfw
+    type: sequence
+    args:
+      - exec: prefer_ipv4
+      - exec: $upstreams google
+  # 远程域名的规则
+  - tag: remote
+    type: sequence
+    args:
+      - exec: prefer_ipv4
+      - exec: $upstreams google
+  # 返回不包含本地 ip 则 丢弃应答。
+  - tag: local
+    type: sequence
+    args:
+      - exec: prefer_ipv4
+      - exec: $upstreams local-cn
+      - matches: 
+        - "!resp_ip &/rules/CN-ip-cidr.txt"
+        exec: drop_resp
+
+  - tag: fallback_i
+    type: fallback
+    args:
+      primary: local
+      secondary: remote
+      threshold: 500
+      always_standby: false
+
+    # 有响应终止返回
+  - tag: cache
+    type: sequence
+    args:
+      - exec: $lazy_cache
+      - exec: query_summary cache
+      - matches: 
+          - has_resp
+        exec: accept
+
+  # 主 sequence 逻辑
+  - tag: main_sequence
+    type: sequence
+    args:
+      # 查询国内域名
+      - matches: 
+          - qname &/rules/accelerated-domains.china.conf
+        exec: goto local-cn
+      - matches:
+          - qname &/rules/gfw.txt
+        exec: goto google-gfw
+      - exec: $fallback_ip
+  - tag: udp_server
+    type: udp_server
+    args:
+      entry: main_sequence
+      listen: :53
+  - tag: tcp_server
+    type: tcp_server
+    args:
+      entry: main_sequence
+      listen: :53
+  - tag: http_server
+    type: http_server
+    args:
+      entries:
+       - path: /dns-query  
+         exec: main_sequence  
+      src_ip_header: "X-Forwarded-For"
+      listen: :4000
+      idle_timeout: 30
