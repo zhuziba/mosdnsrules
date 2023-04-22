@@ -253,8 +253,6 @@ full:qualysguard.qpdp1.net
 full:recaptcha.net
 full:redirector.bdn.dev
 full:redirector.c.chat.google.com
-full:redirector.c.docs.google.com
-full:redirector.c.drive.google.com
 full:redirector.c.mail.google.com
 full:redirector.c.pack.google.com
 full:redirector.c.play.google.com
