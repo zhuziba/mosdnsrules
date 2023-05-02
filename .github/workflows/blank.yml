@@ -35,7 +35,6 @@ jobs:
         wget -O ./smartdns/accelerated-domains.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
         sed -i "s|server=/|nameserver /|; s|/114.114.114.114|/china|" ./smartdns/accelerated-domains.china.conf
         sed -i '/#/d' ./smartdns/accelerated-domains.china.conf
-        sed -i '|top/china$|d' ./smartdns/accelerated-domains.china.con
         wget -O ./smartdns/apple.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf
         sed -i "s|server=/|nameserver /|; s|/114.114.114.114|/china|" ./smartdns/apple.china.conf
         wget -O ./smartdns/google.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf
