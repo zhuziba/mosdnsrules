@@ -33,7 +33,7 @@ jobs:
       run: |
         mkdir -p ./smartdns
         wget -O ./smartdns/accelerated-domains.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
-        ed -i "s|server=/top/114.114.114.114|#server=/top/114.114.114.114|" ./smartdns/accelerated-domains.china.conf
+        sed -i "s|server=/top/114.114.114.114|#server=/top/114.114.114.114|" ./smartdns/accelerated-domains.china.conf
         sed -i "s|server=/|nameserver /|; s|/114.114.114.114|/china|" ./smartdns/accelerated-domains.china.conf
         sed -i '/#/d' ./smartdns/accelerated-domains.china.conf
         wget -O ./smartdns/apple.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf
