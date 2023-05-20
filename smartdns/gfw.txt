@@ -2665,6 +2665,7 @@ nameserver /huaxia-news.com/proxy
 nameserver /huaxiabao.org/proxy
 nameserver /huaxin.ph/proxy
 nameserver /huayuworld.org/proxy
+nameserver /hub.docker.com/proxy
 nameserver /hudatoriq.web.id/proxy
 nameserver /hudson.org/proxy
 nameserver /huffingtonpost.com/proxy
@@ -3924,6 +3925,7 @@ nameserver /packetix.net/proxy
 nameserver /pacopacomama.com/proxy
 nameserver /padmanet.com/proxy
 nameserver /page.bid.yahoo.com/proxy
+nameserver /page.link/proxy
 nameserver /page2rss.com/proxy
 nameserver /pages.dev/proxy
 nameserver /pagodabox.com/proxy
@@ -4067,6 +4069,7 @@ nameserver /pobieramy.top/proxy
 nameserver /podbean.com/proxy
 nameserver /podcast.co/proxy
 nameserver /podictionary.com/proxy
+nameserver /poe.com/proxy
 nameserver /pokerstars.com/proxy
 nameserver /pokerstars.net/proxy
 nameserver /politicalchina.org/proxy
