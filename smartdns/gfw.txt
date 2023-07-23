@@ -2382,6 +2382,7 @@ nameserver /greenpeace.org/proxy
 nameserver /greenreadings.com/proxy
 nameserver /greenvpn.net/proxy
 nameserver /greenvpn.org/proxy
+nameserver /grindr.com/proxy
 nameserver /grotty-monday.com/proxy
 nameserver /groups.google.cn/proxy
 nameserver /grow.google/proxy
@@ -2778,6 +2779,7 @@ nameserver /imb.org/proxy
 nameserver /imdb.com/proxy
 nameserver /img.dlsite.jp/proxy
 nameserver /img.ly/proxy
+nameserver /imgasd.com/proxy
 nameserver /imgchili.net/proxy
 nameserver /imgmega.com/proxy
 nameserver /imgur.com/proxy
@@ -5900,6 +5902,7 @@ nameserver /xiaod.in/proxy
 nameserver /xiaohexie.com/proxy
 nameserver /xiaolan.me/proxy
 nameserver /xiaoma.org/proxy
+nameserver /xiaomi.eu/proxy
 nameserver /xiaxiaoqiang.net/proxy
 nameserver /xiezhua.com/proxy
 nameserver /xihua.es/proxy
