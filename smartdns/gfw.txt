@@ -2083,6 +2083,7 @@ nameserver /goagent.biz/proxy
 nameserver /goagent.codeplex.com/proxy
 nameserver /goagentplus.com/proxy
 nameserver /gobet.cc/proxy
+nameserver /godaddy.com/proxy
 nameserver /godfootsteps.org/proxy
 nameserver /godns.work/proxy
 nameserver /godoc.org/proxy
