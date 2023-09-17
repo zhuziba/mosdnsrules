@@ -103,7 +103,6 @@ nameserver /6park.com/proxy
 nameserver /6parkbbs.com/proxy
 nameserver /6parker.com/proxy
 nameserver /6parknews.com/proxy
-nameserver /7-zip.org/proxy
 nameserver /7capture.com/proxy
 nameserver /7cow.com/proxy
 nameserver /8-d.com/proxy
@@ -1062,6 +1061,7 @@ nameserver /civildisobediencemovement.org/proxy
 nameserver /civilhrfront.org/proxy
 nameserver /civiliangunner.com/proxy
 nameserver /civilmedia.tw/proxy
+nameserver /civitai.com/proxy
 nameserver /ck101.com/proxy
 nameserver /cl.d0z.net/proxy
 nameserver /clarionproject.org/proxy
@@ -3148,6 +3148,7 @@ nameserver /lflinkup.net/proxy
 nameserver /lflinkup.org/proxy
 nameserver /lhakar.org/proxy
 nameserver /lhasocialwork.org/proxy
+nameserver /li.taipei/proxy
 nameserver /liangyou.net/proxy
 nameserver /liangzhichuanmei.com/proxy
 nameserver /lianyue.net/proxy
@@ -3461,6 +3462,7 @@ nameserver /molihua.org/proxy
 nameserver /mondex.org/proxy
 nameserver /money-link.com.tw/proxy
 nameserver /moneyhome.biz/proxy
+nameserver /monica.im/proxy
 nameserver /monitorchina.org/proxy
 nameserver /monocloud.me/proxy
 nameserver /monster.com/proxy
@@ -3930,7 +3932,6 @@ nameserver /padmanet.com/proxy
 nameserver /page.bid.yahoo.com/proxy
 nameserver /page.link/proxy
 nameserver /page2rss.com/proxy
-nameserver /pages.dev/proxy
 nameserver /pagodabox.com/proxy
 nameserver /palacemoon.com/proxy
 nameserver /paldengyal.com/proxy
@@ -5166,7 +5167,6 @@ nameserver /tracfone.com/proxy
 nameserver /tradingview.com/proxy
 nameserver /trans.wenweipo.com/proxy
 nameserver /translate.goog/proxy
-nameserver /translate.google/proxy
 nameserver /transparency.org/proxy
 nameserver /treemall.com.tw/proxy
 nameserver /trendsmap.com/proxy
@@ -5565,7 +5565,6 @@ nameserver /vovo2000.com/proxy
 nameserver /voxer.com/proxy
 nameserver /voy.com/proxy
 nameserver /vpn.ac/proxy
-nameserver /vpn.cjb.net/proxy
 nameserver /vpn.cmu.edu/proxy
 nameserver /vpn.sv.cmu.edu/proxy
 nameserver /vpn4all.com/proxy
