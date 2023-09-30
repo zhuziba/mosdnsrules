@@ -47,7 +47,7 @@ jobs:
         mkdir -p ./cdns
         wget -O ./cdns/accelerated-domains.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
         sed -i "s|server=/top/114.114.114.114|#server=/top/114.114.114.114|" ./cdns/accelerated-domains.china.conf
-        sed -i "s|server=/|suffix:/|; s|/114.114.114.114||" ./cdns/accelerated-domains.china.conf
+        sed -i "s|server=/|suffix:|; s|/114.114.114.114||" ./cdns/accelerated-domains.china.conf
         sed -i '/#/d' ./cdns/accelerated-domains.china.conf
         wget -O ./cdns/gfw.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
         sed -i "s/^/suffix:/g" ./cdns/gfw.txt
