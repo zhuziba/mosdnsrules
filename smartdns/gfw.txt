@@ -433,6 +433,7 @@ nameserver /babynet.com.hk/proxy
 nameserver /backchina.com/proxy
 nameserver /backpackers.com.tw/proxy
 nameserver /backtotiananmen.com/proxy
+nameserver /bad.news/proxy
 nameserver /badiucao.com/proxy
 nameserver /badjojo.com/proxy
 nameserver /badoo.com/proxy
@@ -2802,6 +2803,7 @@ nameserver /indiandefensenews.in/proxy
 nameserver /indiemerch.com/proxy
 nameserver /info-graf.fr/proxy
 nameserver /initiativesforchina.org/proxy
+nameserver /inkbunny.net/proxy
 nameserver /inkui.com/proxy
 nameserver /inmediahk.net/proxy
 nameserver /innermongolia.org/proxy
@@ -3312,6 +3314,7 @@ nameserver /matome-plus.net/proxy
 nameserver /matrix.org/proxy
 nameserver /matsushimakaede.com/proxy
 nameserver /matters.news/proxy
+nameserver /matters.town/proxy
 nameserver /matthewdgreen.wordpress.com/proxy
 nameserver /mattwilcox.net/proxy
 nameserver /maturejp.com/proxy
