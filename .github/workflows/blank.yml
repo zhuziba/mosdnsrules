@@ -73,6 +73,7 @@ jobs:
     - name: down switchsd
       run: |
         mkdir -p ./switchsd
+        mkdir -p ./switchsd/switch/DBI/
         wget -O /tmp/atmosphere.zip https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.6.2/atmosphere-1.6.2-master-f7bf379cf+hbl-2.4.4+hbmenu-3.6.0.zip
         wget -O /tmp/hekate.zip https://github.com/CTCaer/hekate/releases/download/v6.0.7/hekate_ctcaer_6.0.7_Nyx_1.5.6.zip
         unzip -o /tmp/atmosphere.zip -d ./switchsd
