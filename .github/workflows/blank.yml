@@ -73,14 +73,23 @@ jobs:
     - name: down switchsd
       run: |
         mkdir -p ./switchsd
-        mkdir -p ./switchsd/switch/DBI/
         wget -O /tmp/atmosphere.zip https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.6.2/atmosphere-1.6.2-master-f7bf379cf+hbl-2.4.4+hbmenu-3.6.0.zip
         wget -O /tmp/hekate.zip https://github.com/CTCaer/hekate/releases/download/v6.0.7/hekate_ctcaer_6.0.7_Nyx_1.5.6.zip
         unzip -o /tmp/atmosphere.zip -d ./switchsd
         unzip -o /tmp/hekate.zip -d ./switchsd
         wget -O ./switchsd/bootloader/payloads/fusee.bin https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.6.2/fusee.bin
         wget -O ./switchsd/switch/DBI/dbi.config  https://github.com/rashevskyv/dbi/releases/download/653/dbi.config
-        wget -O ./switchsd/switch/DBI/DBI.nro  https://github.com/rashevskyv/dbi/releases/download/653/DBI.nro
+        mkdir -p ./switchsd/switch/DBI
+        wget -O ./switchsd/switch/DBI/DBI.nro https://github.com/rashevskyv/dbi/releases/download/653/DBI.nro
+        mkdir -p ./switchsd/switch/JKSV
+        wget -O ./switchsd/switch/JKSV/JKSV.nro https://github.com/J-D-K/JKSV/releases/latest/download/JKSV.nro
+        mkdir -p ./switchsd/switch/Goldleaf
+        wget -O ./switchsd/switch/Goldleaf/Goldleaf.nro https://github.com/XorTroll/Goldleaf/releases/latest/download/Goldleaf.nro
+        mkdir -p ./switchsd/switch/Amiigo
+        wget -O ./switchsd/switch/Amiigo/Amiigo.nro https://github.com/CompSciOrBust/releases/latest/download/Amiigo.nro
+        wget -O /tmp/linkalho.zip https://github.com/rdmrocha/linkalho/releases/download/v2.0.1/linkalho-v2.0.1.zip
+        mkdir -p ./switchsd/switch/linkalho
+        unzip -o /tmp/linkalho.zip -d ./switchsd/switch/linkalho
     - name: 'Commit Files'
       id: commit
       run: |
