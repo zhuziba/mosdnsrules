@@ -77,9 +77,9 @@ jobs:
         wget -O /tmp/hekate.zip https://github.com/CTCaer/hekate/releases/download/v6.0.7/hekate_ctcaer_6.0.7_Nyx_1.5.6.zip
         unzip -o /tmp/atmosphere.zip -d ./switchsd
         unzip -o /tmp/hekate.zip -d ./switchsd
-        wget -P ./switchsd/bootloader/fusee.bin https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.6.2/fusee.bin
-        wget -P ./switchsd/switch/DBI/dbi.config  https://github.com/rashevskyv/dbi/releases/download/653/dbi.config
-        wget -P ./switchsd/switch/DBI/DBI.nro  https://github.com/rashevskyv/dbi/releases/download/653/DBI.nro
+        wget -O ./switchsd/bootloader/fusee.bin https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.6.2/fusee.bin
+        wget -O ./switchsd/switch/DBI/dbi.config  https://github.com/rashevskyv/dbi/releases/download/653/dbi.config
+        wget -O ./switchsd/switch/DBI/DBI.nro  https://github.com/rashevskyv/dbi/releases/download/653/DBI.nro
     - name: 'Commit Files'
       id: commit
       run: |
