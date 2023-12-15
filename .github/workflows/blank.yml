@@ -90,6 +90,8 @@ jobs:
         wget -O /tmp/linkalho.zip https://github.com/rdmrocha/linkalho/releases/download/v2.0.1/linkalho-v2.0.1.zip
         mkdir -p ./switchsd/switch/linkalho
         unzip -o /tmp/linkalho.zip -d ./switchsd/switch/linkalho
+        mkdir -p ./switchsd/switch/appstore
+        wget -O ./switchsd/switch/appstore/appstore.nro https://github.com/fortheusers/hb-appstore/releases/latest/download/appstore.nro
     - name: 'Commit Files'
       id: commit
       run: |
