@@ -92,6 +92,8 @@ jobs:
         unzip -o /tmp/linkalho.zip -d ./switchsd/switch/linkalho
         mkdir -p ./switchsd/switch/appstore
         wget -O ./switchsd/switch/appstore/appstore.nro https://github.com/fortheusers/hb-appstore/releases/latest/download/appstore.nro
+        wget -O /tmp/sigpatches.zip https://sigmapatches.coomer.party/sigpatches.zip
+        unzip -o /tmp/sigpatches.zip -d ./switchsd
     - name: 'Commit Files'
       id: commit
       run: |
