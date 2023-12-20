@@ -64,8 +64,13 @@ jobs:
         unzip -o /tmp/linkalho.zip -d ./switchsd/switch/linkalho
         mkdir -p ./switchsd/switch/appstore
         wget -O ./switchsd/switch/appstore/appstore.nro https://github.com/fortheusers/hb-appstore/releases/latest/download/appstore.nro
+        mkdir -p ./switchsd/switch/90DNS
+        wget -O ./switchsd/switch/90DNS/90DNS_tester.nro https://github.com/meganukebmp/Switch_90DNS_tester/releases/download/v1.0.4/Switch_90DNS_tester.nro
         wget -O /tmp/sigpatches.zip https://sigmapatches.coomer.party/sigpatches.zip
         unzip -o /tmp/sigpatches.zip -d ./switchsd
+        wget -O /tmp/wiliwili.zip https://github.com/xfangfang/wiliwili/releases/latest/download/wiliwili-NintendoSwitch.zip
+        unzip -o /tmp/wiliwili.zip -d ./switchsd/switch
+
     - name: 'Commit Files'
       id: commit
       run: |
