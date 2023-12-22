@@ -71,7 +71,7 @@ jobs:
         unzip -o /tmp/sigpatches.zip -d ./switchsd
         sudo apt-get install p7zip-full
         wget -O /tmp/nx-tab.7z https://download.switchroot.org/android-11/nx-tab-beta2.75-20230705-rel.7z
-        7z x /tmp/nx-tab.7z -o./switchsd/
+        7z x /tmp/nx-tab.7z -y -o./switchsd/
         rm -rf ./switchsd/lineage-18.1-20230705-UNOFFICIAL-nx_tab.zip
         wget -O /tmp/wiliwili.zip https://github.com/xfangfang/wiliwili/releases/latest/download/wiliwili-NintendoSwitch.zip
         unzip -o /tmp/wiliwili.zip -d ./switchsd/switch
