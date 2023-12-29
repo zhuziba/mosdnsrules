@@ -1157,6 +1157,7 @@ nameserver /contactmagazine.net/proxy
 nameserver /contests.twilio.com/proxy
 nameserver /convio.net/proxy
 nameserver /coobay.com/proxy
+nameserver /cool18.com/proxy
 nameserver /coolaler.com/proxy
 nameserver /coolder.com/proxy
 nameserver /coolloud.org.tw/proxy
@@ -1355,6 +1356,7 @@ nameserver /discuss.com.hk/proxy
 nameserver /discuss4u.com/proxy
 nameserver /dish.com/proxy
 nameserver /disk.yandex.com/proxy
+nameserver /disk.yandex.ru/proxy
 nameserver /disp.cc/proxy
 nameserver /disqus.com/proxy
 nameserver /dit-inc.us/proxy
@@ -2366,7 +2368,6 @@ nameserver /grangorz.org/proxy
 nameserver /graphis.ne.jp/proxy
 nameserver /graphql.org/proxy
 nameserver /gravatar.com/proxy
-nameserver /greasespot.net/proxy
 nameserver /great-firewall.com/proxy
 nameserver /great-roc.org/proxy
 nameserver /greatfire.org/proxy
@@ -3811,6 +3812,7 @@ nameserver /oanda.com/proxy
 nameserver /oann.com/proxy
 nameserver /observechina.net/proxy
 nameserver /obutu.com/proxy
+nameserver /obyte.org/proxy
 nameserver /ocaspro.com/proxy
 nameserver /occupytiananmen.com/proxy
 nameserver /oclp.hk/proxy
@@ -4169,6 +4171,7 @@ nameserver /psiphon.ca/proxy
 nameserver /psiphon.civisec.org/proxy
 nameserver /psiphon3.com/proxy
 nameserver /psiphontoday.com/proxy
+nameserver /pstatic.net/proxy
 nameserver /pt.im/proxy
 nameserver /pts.org.tw/proxy
 nameserver /ptt.cc/proxy
@@ -4384,6 +4387,7 @@ nameserver /ruyiseek.com/proxy
 nameserver /rxhj.net/proxy
 nameserver /s-cute.com/proxy
 nameserver /s-dragon.org/proxy
+nameserver /s.yimg.com/proxy
 nameserver /s1.nudezz.com/proxy
 nameserver /s1heng.com/proxy
 nameserver /s1s1s1.com/proxy
@@ -4991,6 +4995,7 @@ nameserver /thlib.org/proxy
 nameserver /thomasbernhard.org/proxy
 nameserver /thongdreams.com/proxy
 nameserver /threadreaderapp.com/proxy
+nameserver /threads.net/proxy
 nameserver /threatchaos.com/proxy
 nameserver /throughnightsfire.com/proxy
 nameserver /thumbzilla.com/proxy
@@ -5773,13 +5778,13 @@ nameserver /wizcrafts.net/proxy
 nameserver /wjbk.org/proxy
 nameserver /wlcnew.jigsy.com/proxy
 nameserver /wlx.sowiki.net/proxy
+nameserver /wmflabs.org/proxy
 nameserver /wn.com/proxy
 nameserver /wnacg.com/proxy
 nameserver /wnacg.org/proxy
 nameserver /wo.tc/proxy
 nameserver /wo3ttt.wordpress.com/proxy
 nameserver /woeser.com/proxy
-nameserver /woesermiddle-way.net/proxy
 nameserver /wokar.org/proxy
 nameserver /wolfax.com/proxy
 nameserver /wombo.ai/proxy
@@ -5833,7 +5838,6 @@ nameserver /www.antd.org/proxy
 nameserver /www.aolnews.com/proxy
 nameserver /www.businessinsider.com.au/proxy
 nameserver /www.cmoinc.org/proxy
-nameserver /www.cool18.com/proxy
 nameserver /www.dmm.com/proxy
 nameserver /www.dwheeler.com/proxy
 nameserver /www.eastturkistan.net/proxy
