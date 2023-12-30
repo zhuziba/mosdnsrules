@@ -826,6 +826,7 @@ nameserver /cahr.org.tw/proxy
 nameserver /caijinglengyan.com/proxy
 nameserver /calameo.com/proxy
 nameserver /calebelston.com/proxy
+nameserver /calendarz.com/proxy
 nameserver /calgarychinese.ca/proxy
 nameserver /calgarychinese.com/proxy
 nameserver /calgarychinese.net/proxy
@@ -892,6 +893,7 @@ nameserver /cdef.org/proxy
 nameserver /cdig.info/proxy
 nameserver /cdjp.org/proxy
 nameserver /cdn-images.mailchimp.com/proxy
+nameserver /cdn-telegram.org/proxy
 nameserver /cdn.assets.lfpcontent.com/proxy
 nameserver /cdn.helixstudios.net/proxy
 nameserver /cdn.printfriendly.com/proxy
@@ -1144,6 +1146,7 @@ nameserver /com.google/proxy
 nameserver /comefromchina.com/proxy
 nameserver /comic-mega.me/proxy
 nameserver /commandarms.com/proxy
+nameserver /comments.app/proxy
 nameserver /commentshk.com/proxy
 nameserver /communistcrimes.org/proxy
 nameserver /community.windy.com/proxy
@@ -2003,6 +2006,7 @@ nameserver /geekerhome.com/proxy
 nameserver /geekheart.info/proxy
 nameserver /gekikame.com/proxy
 nameserver /gelbooru.com/proxy
+nameserver /generated.photos/proxy
 nameserver /genius.com/proxy
 nameserver /geocities.co.jp/proxy
 nameserver /geocities.com/proxy
@@ -2365,6 +2369,7 @@ nameserver /gr8name.biz/proxy
 nameserver /grammaly.com/proxy
 nameserver /grandtrial.org/proxy
 nameserver /grangorz.org/proxy
+nameserver /graph.org/proxy
 nameserver /graphis.ne.jp/proxy
 nameserver /graphql.org/proxy
 nameserver /gravatar.com/proxy
@@ -2673,6 +2678,8 @@ nameserver /hub.docker.com/proxy
 nameserver /hudatoriq.web.id/proxy
 nameserver /hudson.org/proxy
 nameserver /huffingtonpost.com/proxy
+nameserver /huffpost.com/proxy
+nameserver /huggingface.co/proxy
 nameserver /hugoroy.eu/proxy
 nameserver /huhaitai.com/proxy
 nameserver /huhamhire.com/proxy
@@ -4227,6 +4234,7 @@ nameserver /quantumbooter.net/proxy
 nameserver /questvisual.com/proxy
 nameserver /quitccp.net/proxy
 nameserver /quitccp.org/proxy
+nameserver /quiz.directory/proxy
 nameserver /quora.com/proxy
 nameserver /quoracdn.net/proxy
 nameserver /quran.com/proxy
@@ -4924,9 +4932,11 @@ nameserver /teensinasia.com/proxy
 nameserver /tehrantimes.com/proxy
 nameserver /telecomspace.com/proxy
 nameserver /telegra.ph/proxy
+nameserver /telegram-cdn.org/proxy
 nameserver /telegram.dog/proxy
 nameserver /telegram.me/proxy
 nameserver /telegram.org/proxy
+nameserver /telegram.space/proxy
 nameserver /telegramdownload.com/proxy
 nameserver /telegraph.co.uk/proxy
 nameserver /telesco.pe/proxy
@@ -5659,6 +5669,7 @@ nameserver /wattpad.com/proxy
 nameserver /wav.tv/proxy
 nameserver /waveprotocol.org/proxy
 nameserver /waymo.com/proxy
+nameserver /wd.bible/proxy
 nameserver /wda.gov.tw/proxy
 nameserver /wdf5.com/proxy
 nameserver /wealth.com.tw/proxy
