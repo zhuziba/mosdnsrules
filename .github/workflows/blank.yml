@@ -75,7 +75,9 @@ jobs:
         rm -rf ./switchsd/lineage-18.1-20230705-UNOFFICIAL-nx_tab.zip
         wget -O /tmp/wiliwili.zip https://github.com/xfangfang/wiliwili/releases/latest/download/wiliwili-NintendoSwitch.zip
         unzip -o /tmp/wiliwili.zip -d ./switchsd/switch
-
+        wget -O /tmp/tencent-switcher-gui.zip https://github.com/CaiMiao/Tencent-switcher-GUI/releases/download/0.1.2/tencent-switcher-gui.zip
+        mkdir -p ./switchsd/switch/tencent
+        unzip -o /tmp/tencent-switcher-gui.zip -d ./switchsd/switch/tencent
     - name: 'Commit Files'
       id: commit
       run: |
