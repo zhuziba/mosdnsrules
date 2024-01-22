@@ -51,9 +51,9 @@ jobs:
         mv ./switchsd/hekate_ctcaer_6.0.7.bin ./switchsd/payload.bin
         wget -O ./switchsd//bootloader/payloads/TegraExplorer.bin https://github.com/suchmememanyskill/TegraExplorer/releases/latest/download/TegraExplorer.bin
         wget -O ./switchsd/bootloader/payloads/fusee.bin https://github.com/Atmosphere-NX/Atmosphere/releases/latest/download/fusee.bin
-        wget -O ./switchsd/switch/DBI/dbi.config  https://github.com/rashevskyv/dbi/releases/download/653/dbi.config
+        wget -O ./switchsd/switch/DBI/dbi.config  https://github.com/rashevskyv/dbi/releases/download/658/dbi.config
         mkdir -p ./switchsd/switch/DBI
-        wget -O ./switchsd/switch/DBI/DBI.nro https://github.com/rashevskyv/dbi/releases/download/653/DBI.nro
+        wget -O ./switchsd/switch/DBI/DBI.nro https://github.com/rashevskyv/dbi/releases/download/658/DBI.nro
         mkdir -p ./switchsd/switch/JKSV
         wget -O ./switchsd/switch/JKSV/JKSV.nro https://github.com/J-D-K/JKSV/releases/latest/download/JKSV.nro
         mkdir -p ./switchsd/switch/Goldleaf
