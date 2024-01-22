@@ -65,14 +65,18 @@ jobs:
         unzip -o /tmp/linkalho.zip -d ./switchsd/switch/linkalho
         mkdir -p ./switchsd/switch/appstore
         wget -O ./switchsd/switch/appstore/appstore.nro https://github.com/fortheusers/hb-appstore/releases/latest/download/appstore.nro
-        mkdir -p ./switchsd/switch/battery
-        wget -O ./switchsd/switch/battery/battery_desync_fix.nro https://github.com/CTCaer/battery_desync_fix_nx/releases/latest/download/battery_desync_fix.nro
         mkdir -p ./switchsd/switch/90DNS
         wget -O ./switchsd/switch/90DNS/90DNS_tester.nro https://github.com/meganukebmp/Switch_90DNS_tester/releases/download/v1.0.4/Switch_90DNS_tester.nro
         #wget -O /tmp/sigpatches.zip https://sigmapatches.su/sigpatches.zip
         #unzip -o /tmp/sigpatches.zip -d ./switchsd
         wget -O /tmp/sys-patch.zip https://github.com/ITotalJustice/sys-patch/releases/download/v1.5.0/sys-patch.zip
         unzip -o /tmp/sys-patch.zip -d ./switchsd
+        wget -O ./switchsd/switch/.overlays/ovlSysmodules.ovl https://github.com/WerWolv/ovl-sysmodules/releases/download/v1.3.1/ovlSysmodules.ovl
+        wget -O ./switchsd/switch/.overlays/ovlmenu.ovl https://github.com/ppkantorski/Ultrahand-Overlay/releases/latest/download/ovlmenu.ovl
+        wget -O /tmp/sys-clk.zip https://github.com/retronx-team/sys-clk/releases/download/2.0.0-rc/sys-clk-2.0.0-rc_4.zip
+        unzip -o /tmp/sys-clk.zip -d ./switchsd
+        wget -O /tmp/nx-ovlloader.zip https://github.com/WerWolv/nx-ovlloader/releases/download/v1.0.7/nx-ovlloader.zip
+        unzip -o /tmp/nx-ovlloader.zip -d ./switchsd
         sudo apt-get install p7zip-full
         wget -O /tmp/nx-tab.7z https://download.switchroot.org/android-11/nx-tab-beta2.75-20230705-rel.7z
         7z x /tmp/nx-tab.7z -y -o./switchsd/
