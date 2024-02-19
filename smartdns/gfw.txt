@@ -2688,6 +2688,7 @@ nameserver /huiyi.in/proxy
 nameserver /hulkshare.com/proxy
 nameserver /hulu.com/proxy
 nameserver /huluim.com/proxy
+nameserver /humanparty.me/proxy
 nameserver /humanrightspressawards.org/proxy
 nameserver /hung-ya.com/proxy
 nameserver /hungerstrikeforaids.org/proxy
@@ -4942,6 +4943,7 @@ nameserver /telegraph.co.uk/proxy
 nameserver /telesco.pe/proxy
 nameserver /tellme.pw/proxy
 nameserver /tenacy.com/proxy
+nameserver /tenor.com/proxy
 nameserver /tensorflow.org/proxy
 nameserver /tenzinpalmo.com/proxy
 nameserver /terabox.com/proxy
