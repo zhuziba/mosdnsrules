@@ -51,9 +51,9 @@ jobs:
         mv ./switchsd/hekate_ctcaer_6.2.2.bin ./switchsd/payload.bin
         wget -O ./switchsd//bootloader/payloads/TegraExplorer.bin https://github.com/suchmememanyskill/TegraExplorer/releases/latest/download/TegraExplorer.bin
         wget -O ./switchsd/bootloader/payloads/fusee.bin https://github.com/Atmosphere-NX/Atmosphere/releases/latest/download/fusee.bin
-        wget -O ./switchsd/switch/DBI/dbi.config  https://github.com/rashevskyv/dbi/releases/download/658/dbi.config
+        wget -O ./switchsd/switch/DBI/dbi.config  https://github.com/rashevskyv/dbi/releases/download/741ru/dbi.config
         mkdir -p ./switchsd/switch/DBI
-        wget -O ./switchsd/switch/DBI/DBI.nro https://github.com/rashevskyv/dbi/releases/download/658/DBI.nro
+        wget -O ./switchsd/switch/DBI/DBI.nro https://github.com/rashevskyv/dbi/releases/download/741ru/DBI.nro
         mkdir -p ./switchsd/switch/JKSV
         wget -O ./switchsd/switch/JKSV/JKSV.nro https://github.com/J-D-K/JKSV/releases/latest/download/JKSV.nro
         mkdir -p ./switchsd/switch/Goldleaf
@@ -78,6 +78,7 @@ jobs:
         rm -rf ./switchsd/lineage-18.1-20230705-UNOFFICIAL-nx_tab.zip
         wget -O /tmp/wiliwili.zip https://github.com/xfangfang/wiliwili/releases/latest/download/wiliwili-NintendoSwitch.zip
         unzip -o /tmp/wiliwili.zip -d ./switchsd/switch
+        rm -rf ./switchsd/switch/wiliwili/安装必读.txt
         wget -O /tmp/tencent-switcher-gui.zip https://github.com/CaiMiao/Tencent-switcher-GUI/releases/download/0.1.2/tencent-switcher-gui.zip
         mkdir -p ./switchsd/switch/tencent
         unzip -o /tmp/tencent-switcher-gui.zip -d ./switchsd/switch/tencent
