@@ -86,8 +86,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add .
-        git diff --quiet && git diff --staged --quiet || git commit -am '.add'
+        git commit -a -m "Add changes"
     - name: Push Dust
       uses: ad-m/github-push-action@master
       with:
