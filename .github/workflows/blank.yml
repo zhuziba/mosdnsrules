@@ -60,9 +60,6 @@ jobs:
         wget -O ./switchsd/switch/Goldleaf/Goldleaf.nro https://github.com/XorTroll/Goldleaf/releases/latest/download/Goldleaf.nro
         mkdir -p ./switchsd/switch/Amiigo
         wget -O ./switchsd/switch/Amiigo/Amiigo.nro https://github.com/CompSciOrBust/Amiigo/releases/latest/download/Amiigo.nro
-        wget -O /tmp/linkalho.zip https://github.com/rdmrocha/linkalho/releases/download/v2.0.1/linkalho-v2.0.1.zip
-        mkdir -p ./switchsd/switch/linkalho
-        unzip -o /tmp/linkalho.zip -d ./switchsd/switch/linkalho
         mkdir -p ./switchsd/switch/appstore
         wget -O ./switchsd/switch/appstore/appstore.nro https://github.com/fortheusers/hb-appstore/releases/latest/download/appstore.nro
         mkdir -p ./switchsd/switch/90DNS
