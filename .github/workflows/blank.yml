@@ -45,7 +45,8 @@ jobs:
       run: |
         mkdir -p ./switchsd
         wget -O /tmp/atmosphere.zip https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.8.0-prerelease/atmosphere-1.8.0-master-c6014b533+hbl-2.4.4+hbmenu-3.6.0.zip
-        wget -O /tmp/hekate.zip https://github.com/CTCaer/hekate/releases/download/v6.2.2/hekate_ctcaer_6.2.2_Nyx_1.6.4.zip
+        #wget -O /tmp/hekate.zip https://github.com/CTCaer/hekate/releases/download/v6.2.2/hekate_ctcaer_6.2.2_Nyx_1.6.4.zip
+        wget -O /tmp/hekate.zip https://github.com/easyworld/hekate/releases/download/v6.2.2/hekate_ctcaer_6.2.2_Nyx_1.6.4_sc.zip
         unzip -o /tmp/atmosphere.zip -d ./switchsd
         unzip -o /tmp/hekate.zip -d ./switchsd
         mv ./switchsd/hekate_ctcaer_6.2.2.bin ./switchsd/payload.bin
