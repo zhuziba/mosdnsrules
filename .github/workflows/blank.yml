@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: Ubuntu-20.04  
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - name: down smartdns
       run: |
         mkdir -p ./smartdns
