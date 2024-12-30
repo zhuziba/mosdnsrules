@@ -770,7 +770,8 @@ nameserver /broadpressinc.com/proxy
 nameserver /brookings.edu/proxy
 nameserver /brucewang.net/proxy
 nameserver /brutaltgp.com/proxy
-nameserver /bt2mag.com/proxy
+nameserver /bsky.app/proxy
+nameserver /bsky.social/proxy
 nameserver /bt95.com/proxy
 nameserver /btaia.com/proxy
 nameserver /btbtav.com/proxy
@@ -1321,6 +1322,7 @@ nameserver /deaftone.com/proxy
 nameserver /debug.com/proxy
 nameserver /deck.ly/proxy
 nameserver /decodet.co/proxy
+nameserver /deepai.org/proxy
 nameserver /deepmind.com/proxy
 nameserver /deezer.com/proxy
 nameserver /definebabe.com/proxy
@@ -1401,6 +1403,7 @@ nameserver /dnset.com/proxy
 nameserver /dnsrd.com/proxy
 nameserver /dnssec.net/proxy
 nameserver /dnvod.tv/proxy
+nameserver /docs.new/proxy
 nameserver /doctorvoice.org/proxy
 nameserver /documentingreality.com/proxy
 nameserver /dogfartnetwork.com/proxy
@@ -2449,16 +2452,12 @@ nameserver /h1n1china.org/proxy
 nameserver /h528.com/proxy
 nameserver /h5dm.com/proxy
 nameserver /h5galgame.me/proxy
-nameserver /hacg.club/proxy
-nameserver /hacg.in/proxy
-nameserver /hacg.li/proxy
-nameserver /hacg.me/proxy
-nameserver /hacg.red/proxy
 nameserver /hacken.cc/proxy
 nameserver /hacker.org/proxy
 nameserver /hackmd.io/proxy
 nameserver /hackthatphone.net/proxy
 nameserver /hahlo.com/proxy
+nameserver /haijiao.com/proxy
 nameserver /hakkatv.org.tw/proxy
 nameserver /handcraftedsoftware.org/proxy
 nameserver /hanime.tv/proxy
@@ -4554,6 +4553,7 @@ nameserver /sharpdaily.hk/proxy
 nameserver /sharpdaily.tw/proxy
 nameserver /shat-tibet.com/proxy
 nameserver /shattered.io/proxy
+nameserver /sheets.new/proxy
 nameserver /sheikyermami.com/proxy
 nameserver /shellfire.de/proxy
 nameserver /shenshou.org/proxy
@@ -4637,6 +4637,7 @@ nameserver /slaytizle.com/proxy
 nameserver /sleazydream.com/proxy
 nameserver /slheng.com/proxy
 nameserver /slickvpn.com/proxy
+nameserver /slides.new/proxy
 nameserver /slideshare.net/proxy
 nameserver /slinkset.com/proxy
 nameserver /slutload.com/proxy
@@ -4652,6 +4653,7 @@ nameserver /smhric.org/proxy
 nameserver /smith.edu/proxy
 nameserver /smyxy.org/proxy
 nameserver /snapchat.com/proxy
+nameserver /snapseed.com/proxy
 nameserver /snaptu.com/proxy
 nameserver /sndcdn.com/proxy
 nameserver /sneakme.net/proxy
@@ -5657,6 +5659,7 @@ nameserver /vpnworldwide.com/proxy
 nameserver /vporn.com/proxy
 nameserver /vpser.net/proxy
 nameserver /vraiesagesse.net/proxy
+nameserver /vrchat.com/proxy
 nameserver /vrmtr.com/proxy
 nameserver /vrsmash.com/proxy
 nameserver /vtunnel.com/proxy
@@ -5757,6 +5760,7 @@ nameserver /wforum.com/proxy
 nameserver /wha.la/proxy
 nameserver /whatblocked.com/proxy
 nameserver /whatbrowser.org/proxy
+nameserver /whats.new/proxy
 nameserver /whatsapp.com/proxy
 nameserver /whatsapp.net/proxy
 nameserver /whatsonweibo.com/proxy
