@@ -12,6 +12,10 @@ jobs:
     - uses: actions/checkout@v4
     - name: down smartdns
       run: |
+        mkdir -p ./m3u
+        wget -O ./m3u/91.m3u http://serv.cloudns.be/91.m3u
+    - name: down smartdns
+      run: |
         mkdir -p ./smartdns
         wget -O ./smartdns/accelerated-domains.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf
         sed -i "s|server=/top/114.114.114.114|#server=/top/114.114.114.114|" ./smartdns/accelerated-domains.china.conf
