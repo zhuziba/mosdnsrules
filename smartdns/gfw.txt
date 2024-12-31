@@ -2409,6 +2409,7 @@ nameserver /greenvpn.net/proxy
 nameserver /greenvpn.org/proxy
 nameserver /grindr.com/proxy
 nameserver /grotty-monday.com/proxy
+nameserver /ground.news/proxy
 nameserver /groups.google.cn/proxy
 nameserver /grow.google/proxy
 nameserver /gs-discuss.com/proxy
@@ -2501,6 +2502,7 @@ nameserver /hentaitube.tv/proxy
 nameserver /hentaivideoworld.com/proxy
 nameserver /heqinglian.net/proxy
 nameserver /heritage.org/proxy
+nameserver /herokuapp.com/proxy
 nameserver /heungkongdiscuss.com/proxy
 nameserver /hexieshe.com/proxy
 nameserver /hexieshe.xyz/proxy
@@ -2653,6 +2655,7 @@ nameserver /hougaige.com/proxy
 nameserver /howtoforge.com/proxy
 nameserver /hoxx.com/proxy
 nameserver /hpa.gov.tw/proxy
+nameserver /hpjav.com/proxy
 nameserver /hqcdp.org/proxy
 nameserver /hqjapanesesex.com/proxy
 nameserver /hqmovies.com/proxy
@@ -2740,6 +2743,7 @@ nameserver /iamtopone.com/proxy
 nameserver /iask.bz/proxy
 nameserver /iask.ca/proxy
 nameserver /iav19.com/proxy
+nameserver /iavian.net/proxy
 nameserver /ibiblio.org/proxy
 nameserver /ibit.am/proxy
 nameserver /iblist.com/proxy
@@ -4008,6 +4012,7 @@ nameserver /pbxes.org/proxy
 nameserver /pcanywhere.net/proxy
 nameserver /pcc.gov.tw/proxy
 nameserver /pcdvd.com.tw/proxy
+nameserver /pcgamestorrents.com/proxy
 nameserver /pchome.com.tw/proxy
 nameserver /pcij.org/proxy
 nameserver /pcstore.com.tw/proxy
