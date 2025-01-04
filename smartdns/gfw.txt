@@ -1125,6 +1125,7 @@ nameserver /cn6.eu/proxy
 nameserver /cna.com.tw/proxy
 nameserver /cnabc.com/proxy
 nameserver /cnbbnews.wordpress.com/proxy
+nameserver /cnbeta.com.tw/proxy
 nameserver /cnd.org/proxy
 nameserver /cnex.org.cn/proxy
 nameserver /cnineu.com/proxy
