@@ -140,6 +140,7 @@ nameserver /abc.pp.ru/proxy
 nameserver /abc.xyz/proxy
 nameserver /abchinese.com/proxy
 nameserver /abclite.net/proxy
+nameserver /abebooks.co.uk/proxy
 nameserver /abebooks.com/proxy
 nameserver /abematv.akamaized.net/proxy
 nameserver /abitno.linpie.com/proxy
@@ -856,6 +857,7 @@ nameserver /carfax.com/proxy
 nameserver /cari.com.my/proxy
 nameserver /caribbeancom.com/proxy
 nameserver /carmotorshow.com/proxy
+nameserver /carousell.com.hk/proxy
 nameserver /carrd.co/proxy
 nameserver /cartoonmovement.com/proxy
 nameserver /casadeltibetbcn.org/proxy
@@ -942,6 +944,7 @@ nameserver /changeip.org/proxy
 nameserver /changp.com/proxy
 nameserver /changsa.net/proxy
 nameserver /channelnewsasia.com/proxy
+nameserver /chanworld.org/proxy
 nameserver /chaoex.com/proxy
 nameserver /chapm25.com/proxy
 nameserver /chat.lmsys.org/proxy
@@ -1109,7 +1112,6 @@ nameserver /cmule.com/proxy
 nameserver /cmule.org/proxy
 nameserver /cmx.im/proxy
 nameserver /cn-proxy.com/proxy
-nameserver /cn.dayabook.com/proxy
 nameserver /cn.fmnnow.com/proxy
 nameserver /cn.freeones.com/proxy
 nameserver /cn.giganews.com/proxy
@@ -1180,6 +1182,7 @@ nameserver /coolder.com/proxy
 nameserver /coolloud.org.tw/proxy
 nameserver /coolncute.com/proxy
 nameserver /coolstuffinc.com/proxy
+nameserver /copilot.microsoft.com/proxy
 nameserver /corumcollege.com/proxy
 nameserver /cos-moe.com/proxy
 nameserver /cosmic.monar.ch/proxy
@@ -1296,6 +1299,7 @@ nameserver /darktech.org/proxy
 nameserver /darktoy.net/proxy
 nameserver /darpa.mil/proxy
 nameserver /darrenliuwei.com/proxy
+nameserver /dashlane.com/proxy
 nameserver /dastrassi.org/proxy
 nameserver /data-vocabulary.org/proxy
 nameserver /data.flurry.com/proxy
@@ -1618,7 +1622,6 @@ nameserver /eroticsaloon.net/proxy
 nameserver /esg.t91y.com/proxy
 nameserver /eslite.com/proxy
 nameserver /esmtp.biz/proxy
-nameserver /esu.dog/proxy
 nameserver /esurance.com/proxy
 nameserver /etaa.org.au/proxy
 nameserver /etadult.com/proxy
@@ -4130,6 +4133,7 @@ nameserver /poloniex.com/proxy
 nameserver /polymer-project.org/proxy
 nameserver /polymerhk.com/proxy
 nameserver /poolin.com/proxy
+nameserver /popai.pro/proxy
 nameserver /popo.tw/proxy
 nameserver /popvote.hk/proxy
 nameserver /popxi.click/proxy
@@ -5633,6 +5637,7 @@ nameserver /vot.org/proxy
 nameserver /vovo2000.com/proxy
 nameserver /voxer.com/proxy
 nameserver /voy.com/proxy
+nameserver /vpl.bibliocommons.com/proxy
 nameserver /vpn.ac/proxy
 nameserver /vpn.cmu.edu/proxy
 nameserver /vpn.sv.cmu.edu/proxy
@@ -5797,7 +5802,6 @@ nameserver /whyx.org/proxy
 nameserver /widevine.com/proxy
 nameserver /wikaba.com/proxy
 nameserver /wiki.cnitter.com/proxy
-nameserver /wiki.esu.im/proxy
 nameserver /wiki.gamerp.jp/proxy
 nameserver /wiki.jqueryui.com/proxy
 nameserver /wiki.keso.cn/proxy
