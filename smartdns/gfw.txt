@@ -98,6 +98,7 @@ nameserver /64wiki.com/proxy
 nameserver /66.ca/proxy
 nameserver /666kb.com/proxy
 nameserver /6do.news/proxy
+nameserver /6do.world/proxy
 nameserver /6park.com/proxy
 nameserver /6parkbbs.com/proxy
 nameserver /6parker.com/proxy
@@ -150,7 +151,6 @@ nameserver /about.google/proxy
 nameserver /about.me/proxy
 nameserver /aboutgfw.com/proxy
 nameserver /abs.edu/proxy
-nameserver /ac.jiruan.net/proxy
 nameserver /acast.com/proxy
 nameserver /accim.org/proxy
 nameserver /accountkit.com/proxy
@@ -199,9 +199,11 @@ nameserver /ai-kan.net/proxy
 nameserver /ai-wen.net/proxy
 nameserver /ai.binwang.me/proxy
 nameserver /ai.google/proxy
+nameserver /aiosearch.com/proxy
 nameserver /aiph.net/proxy
 nameserver /airasia.com/proxy
 nameserver /airconsole.com/proxy
+nameserver /airitilibrary.com/proxy
 nameserver /airvpn.org/proxy
 nameserver /aisex.com/proxy
 nameserver /aiss.anws.gov.tw/proxy
@@ -273,6 +275,7 @@ nameserver /ancsconf.org/proxy
 nameserver /andfaraway.net/proxy
 nameserver /android-x86.org/proxy
 nameserver /android.com/proxy
+nameserver /androidapksfree.com/proxy
 nameserver /androidify.com/proxy
 nameserver /androidplus.co/proxy
 nameserver /androidtv.com/proxy
@@ -382,6 +385,7 @@ nameserver /asianwomensfilm.de/proxy
 nameserver /asiaone.com/proxy
 nameserver /asiatgp.com/proxy
 nameserver /asiatoday.us/proxy
+nameserver /ask.com/proxy
 nameserver /askstudent.com/proxy
 nameserver /askynz.net/proxy
 nameserver /aspi.org.au/proxy
@@ -433,6 +437,7 @@ nameserver /azirevpn.com/proxy
 nameserver /azubu.tv/proxy
 nameserver /azurewebsites.net/proxy
 nameserver /b-ok.cc/proxy
+nameserver /b.hatena.ne.jp/proxy
 nameserver /b0ne.com/proxy
 nameserver /babylonbee.com/proxy
 nameserver /babynet.com.hk/proxy
@@ -485,7 +490,6 @@ nameserver /bbs.brockbbs.com/proxy
 nameserver /bbs.cantonese.asia/proxy
 nameserver /bbs.ecstart.com/proxy
 nameserver /bbs.hanminzu.org/proxy
-nameserver /bbs.hasi.wang/proxy
 nameserver /bbs.huasing.org/proxy
 nameserver /bbs.junglobal.net/proxy
 nameserver /bbs.kimy.com.tw/proxy
@@ -533,6 +537,7 @@ nameserver /bestgore.com/proxy
 nameserver /bestpornstardb.com/proxy
 nameserver /bestvpn.com/proxy
 nameserver /bestvpnanalysis.com/proxy
+nameserver /bestvpnforchina.net/proxy
 nameserver /bestvpnserver.com/proxy
 nameserver /bestvpnservice.com/proxy
 nameserver /bestvpnusa.com/proxy
@@ -734,6 +739,7 @@ nameserver /bookdepository.com/proxy
 nameserver /bookepub.com/proxy
 nameserver /books.com.tw/proxy
 nameserver /booktopia.com.au/proxy
+nameserver /bookwalker.com.tw/proxy
 nameserver /boomssr.com/proxy
 nameserver /borgenmagazine.com/proxy
 nameserver /bot.nu/proxy
@@ -850,6 +856,7 @@ nameserver /canyu.org/proxy
 nameserver /cao.im/proxy
 nameserver /caobian.info/proxy
 nameserver /caochangqing.com/proxy
+nameserver /caoporn.us/proxy
 nameserver /cap.org.hk/proxy
 nameserver /carabinasypistolas.com/proxy
 nameserver /cardinalkungfoundation.org/proxy
@@ -875,6 +882,7 @@ nameserver /catholic.org.tw/proxy
 nameserver /cathvoice.org.tw/proxy
 nameserver /cato.org/proxy
 nameserver /cattt.com/proxy
+nameserver /caus.com/proxy
 nameserver /cbc.ca/proxy
 nameserver /cbs.ntu.edu.tw/proxy
 nameserver /cbsnews.com/proxy
@@ -946,7 +954,9 @@ nameserver /changsa.net/proxy
 nameserver /channelnewsasia.com/proxy
 nameserver /chanworld.org/proxy
 nameserver /chaoex.com/proxy
+nameserver /chaos.social/proxy
 nameserver /chapm25.com/proxy
+nameserver /character.ai/proxy
 nameserver /chat.lmsys.org/proxy
 nameserver /chatgpt.com/proxy
 nameserver /chatnook.com/proxy
@@ -981,6 +991,7 @@ nameserver /chinachange.org/proxy
 nameserver /chinachannel.hk/proxy
 nameserver /chinacitynews.be/proxy
 nameserver /chinacomments.org/proxy
+nameserver /chinademocrats.org/proxy
 nameserver /chinadialogue.net/proxy
 nameserver /chinadigitaltimes.net/proxy
 nameserver /chinaelections.org/proxy
@@ -1146,6 +1157,7 @@ nameserver /code1984.com/proxy
 nameserver /codeshare.io/proxy
 nameserver /codeskulptor.org/proxy
 nameserver /coin2co.in/proxy
+nameserver /coinbase.com/proxy
 nameserver /coinbene.com/proxy
 nameserver /coinegg.com/proxy
 nameserver /coinex.com/proxy
@@ -1427,6 +1439,7 @@ nameserver /dongtaiwang.net/proxy
 nameserver /dongyangjing.com/proxy
 nameserver /dontfilter.us/proxy
 nameserver /dontmovetochina.com/proxy
+nameserver /doourbest.org/proxy
 nameserver /dorjeshugden.com/proxy
 nameserver /dotplane.com/proxy
 nameserver /dotsub.com/proxy
@@ -1825,6 +1838,7 @@ nameserver /flipkart.com/proxy
 nameserver /flitto.com/proxy
 nameserver /flnet.org/proxy
 nameserver /flog.tw/proxy
+nameserver /flowhongkong.net/proxy
 nameserver /flyvpn.com/proxy
 nameserver /flyzy2005.com/proxy
 nameserver /fnac.be/proxy
@@ -1866,6 +1880,7 @@ nameserver /fpmtmexico.org/proxy
 nameserver /fq.wikia.com/proxy
 nameserver /fqok.org/proxy
 nameserver /fqrouter.com/proxy
+nameserver /frank2019.me/proxy
 nameserver /franklc.com/proxy
 nameserver /freakshare.com/proxy
 nameserver /free-gate.org/proxy
@@ -1951,6 +1966,7 @@ nameserver /fuckcnnic.net/proxy
 nameserver /fuckgfw.org/proxy
 nameserver /fulione.com/proxy
 nameserver /fullerconsideration.com/proxy
+nameserver /fullservicegame.com/proxy
 nameserver /fulue.com/proxy
 nameserver /funf.tw/proxy
 nameserver /funkyimg.com/proxy
@@ -2081,9 +2097,11 @@ nameserver /github.blog/proxy
 nameserver /github.com/proxy
 nameserver /github.io/proxy
 nameserver /githubassets.com/proxy
+nameserver /githubcopilot.com/proxy
 nameserver /githubusercontent.com/proxy
 nameserver /gizlen.net/proxy
 nameserver /gjczz.com/proxy
+nameserver /glarity.app/proxy
 nameserver /glass8.eu/proxy
 nameserver /global.bing.com/proxy
 nameserver /globaljihad.net/proxy
@@ -2133,19 +2151,19 @@ nameserver /goldbetsports.com/proxy
 nameserver /golden-ages.org/proxy
 nameserver /goldeneyevault.com/proxy
 nameserver /goldenfrog.com/proxy
-nameserver /goldjizz.com/proxy
 nameserver /goldstep.net/proxy
 nameserver /goldwave.com/proxy
 nameserver /gongm.in/proxy
 nameserver /gongmeng.info/proxy
 nameserver /gongminliliang.com/proxy
-nameserver /gongwt.com/proxy
 nameserver /goo.gl/proxy
 nameserver /goo.gle/proxy
 nameserver /goo.ne.jp/proxy
+nameserver /good.news/proxy
 nameserver /gooday.xyz/proxy
 nameserver /gooddns.info/proxy
 nameserver /goodhope.school/proxy
+nameserver /goodnewsnetwork.org/proxy
 nameserver /goodreaders.com/proxy
 nameserver /goodreads.com/proxy
 nameserver /goodtv.com.tw/proxy
@@ -2948,10 +2966,10 @@ nameserver /jandyx.com/proxy
 nameserver /janwongphoto.com/proxy
 nameserver /japan-whores.com/proxy
 nameserver /japanfirst.asianfreeforum.com/proxy
+nameserver /japanhdv.com/proxy
 nameserver /japantimes.co.jp/proxy
 nameserver /jav.com/proxy
 nameserver /jav101.com/proxy
-nameserver /jav2be.com/proxy
 nameserver /jav68.tv/proxy
 nameserver /javakiba.org/proxy
 nameserver /javbus.com/proxy
@@ -2993,7 +3011,7 @@ nameserver /jinbushe.org/proxy
 nameserver /jingpin.org/proxy
 nameserver /jingsim.org/proxy
 nameserver /jinpianwang.com/proxy
-nameserver /jinroukong.com/proxy
+nameserver /jinrizhiyi.news/proxy
 nameserver /jintian.net/proxy
 nameserver /jinx.com/proxy
 nameserver /jitouch.com/proxy
@@ -3003,10 +3021,10 @@ nameserver /jkb.cc/proxy
 nameserver /jkforum.net/proxy
 nameserver /jkub.com/proxy
 nameserver /jma.go.jp/proxy
+nameserver /jmsc.hku.hk/proxy
 nameserver /jmscult.com/proxy
 nameserver /joachims.org/proxy
 nameserver /jobnewera.wordpress.com/proxy
-nameserver /jobso.tv/proxy
 nameserver /joinclubhouse.com/proxy
 nameserver /joinmastodon.org/proxy
 nameserver /jornaldacidadeonline.com.br/proxy
@@ -3119,6 +3137,7 @@ nameserver /ksdl.org/proxy
 nameserver /ksnews.com.tw/proxy
 nameserver /kspcoin.com/proxy
 nameserver /ktzhk.com/proxy
+nameserver /kuaichedao.co/proxy
 nameserver /kucoin.com/proxy
 nameserver /kui.name/proxy
 nameserver /kukuku.uk/proxy
@@ -3206,6 +3225,7 @@ nameserver /lighten.org.tw/proxy
 nameserver /lighti.me/proxy
 nameserver /lightnovel.cn/proxy
 nameserver /lightyearvpn.com/proxy
+nameserver /lih.kg/proxy
 nameserver /lihkg.com/proxy
 nameserver /like.com/proxy
 nameserver /limiao.net/proxy
@@ -3381,6 +3401,7 @@ nameserver /mefound.com/proxy
 nameserver /mega.co.nz/proxy
 nameserver /mega.io/proxy
 nameserver /mega.nz/proxy
+nameserver /megalodon.jp/proxy
 nameserver /megaproxy.com/proxy
 nameserver /megarotic.com/proxy
 nameserver /megavideo.com/proxy
@@ -3415,20 +3436,18 @@ nameserver /metrohk.com.hk/proxy
 nameserver /metrolife.ca/proxy
 nameserver /metroradio.com.hk/proxy
 nameserver /mewe.com/proxy
-nameserver /meyou.jp/proxy
-nameserver /meyul.com/proxy
 nameserver /mfxmedia.com/proxy
 nameserver /mgoon.com/proxy
 nameserver /mgstage.com/proxy
 nameserver /mh4u.org/proxy
 nameserver /mhradio.org/proxy
-nameserver /michaelanti.com/proxy
 nameserver /michaelmarketl.com/proxy
 nameserver /microvpn.com/proxy
 nameserver /middle-way.net/proxy
 nameserver /mihk.hk/proxy
 nameserver /mihr.com/proxy
 nameserver /mihua.org/proxy
+nameserver /mikanani.me/proxy
 nameserver /mike.cz.cc/proxy
 nameserver /mikesoltys.com/proxy
 nameserver /milph.net/proxy
@@ -3507,6 +3526,7 @@ nameserver /molihua.org/proxy
 nameserver /momoshop.com.tw/proxy
 nameserver /mondex.org/proxy
 nameserver /money-link.com.tw/proxy
+nameserver /moneydj.com/proxy
 nameserver /moneyhome.biz/proxy
 nameserver /monica.im/proxy
 nameserver /monitorchina.org/proxy
@@ -3693,7 +3713,6 @@ nameserver /news.ebc.net.tw/proxy
 nameserver /news.hk.msn.com/proxy
 nameserver /news.msn.com.tw/proxy
 nameserver /news.nationalgeographic.com/proxy
-nameserver /news.now.com/proxy
 nameserver /news.omy.sg/proxy
 nameserver /news.seehua.com/proxy
 nameserver /news.sina.com.hk/proxy
@@ -3776,6 +3795,7 @@ nameserver /nordstrom.com/proxy
 nameserver /nordstromimage.com/proxy
 nameserver /nordstromrack.com/proxy
 nameserver /nordvpn.com/proxy
+nameserver /nos.nl/proxy
 nameserver /notepad-plus-plus.org/proxy
 nameserver /notify.dropboxapi.com/proxy
 nameserver /nottinghampost.com/proxy
@@ -3919,6 +3939,7 @@ nameserver /onthehunt.com/proxy
 nameserver /ontrac.com/proxy
 nameserver /oopsforum.com/proxy
 nameserver /open.com.hk/proxy
+nameserver /open.firstory.me/proxy
 nameserver /openai.com/proxy
 nameserver /openallweb.com/proxy
 nameserver /opendemocracy.net/proxy
@@ -4013,6 +4034,7 @@ nameserver /paste.ee/proxy
 nameserver /pastebin.com/proxy
 nameserver /pastie.org/proxy
 nameserver /patreon.com/proxy
+nameserver /patreonusercontent.com/proxy
 nameserver /pawoo.net/proxy
 nameserver /paxful.com/proxy
 nameserver /pbs.org/proxy
@@ -4103,6 +4125,7 @@ nameserver /pixnet.net/proxy
 nameserver /pk.com/proxy
 nameserver /pki.goog/proxy
 nameserver /placemix.com/proxy
+nameserver /play-asia.com/proxy
 nameserver /playboy.com/proxy
 nameserver /playboyplus.com/proxy
 nameserver /player.fm/proxy
@@ -4153,6 +4176,7 @@ nameserver /pornoxo.com/proxy
 nameserver /pornrapidshare.com/proxy
 nameserver /pornsharing.com/proxy
 nameserver /pornsocket.com/proxy
+nameserver /pornstarbyface.com/proxy
 nameserver /pornstarclub.com/proxy
 nameserver /porntube.com/proxy
 nameserver /porntubenews.com/proxy
@@ -4174,6 +4198,7 @@ nameserver /power.com/proxy
 nameserver /powerapple.com/proxy
 nameserver /powercx.com/proxy
 nameserver /powerphoto.org/proxy
+nameserver /ppy.sh/proxy
 nameserver /prayforchina.net/proxy
 nameserver /premeforwindows7.com/proxy
 nameserver /premproxy.com/proxy
@@ -4364,7 +4389,6 @@ nameserver /religioustolerance.org/proxy
 nameserver /renminbao.com/proxy
 nameserver /renyurenquan.org/proxy
 nameserver /research.google/proxy
-nameserver /research.jmsc.hku.hk/proxy
 nameserver /resilio.com/proxy
 nameserver /resistchina.org/proxy
 nameserver /retweeteffect.com/proxy
@@ -4614,6 +4638,7 @@ nameserver /silkbook.com/proxy
 nameserver /simbolostwitter.com/proxy
 nameserver /simplecd.org/proxy
 nameserver /simpleproductivityblog.com/proxy
+nameserver /simpleswap.io/proxy
 nameserver /sinchew.com.my/proxy
 nameserver /singaporepools.com.sg/proxy
 nameserver /singfortibet.com/proxy
@@ -4670,6 +4695,7 @@ nameserver /smchbooks.com/proxy
 nameserver /smh.com.au/proxy
 nameserver /smhric.org/proxy
 nameserver /smith.edu/proxy
+nameserver /smn.news/proxy
 nameserver /smyxy.org/proxy
 nameserver /snapchat.com/proxy
 nameserver /snapseed.com/proxy
@@ -4715,6 +4741,7 @@ nameserver /sopcast.org/proxy
 nameserver /sorazone.net/proxy
 nameserver /sorting-algorithms.com/proxy
 nameserver /sos.org/proxy
+nameserver /sosad.fun/proxy
 nameserver /sosreader.com/proxy
 nameserver /sostibet.org/proxy
 nameserver /soubory.com/proxy
@@ -4729,6 +4756,7 @@ nameserver /soupofmedia.com/proxy
 nameserver /sourceforge.net/proxy
 nameserver /sourcewadio.com/proxy
 nameserver /south-plus.org/proxy
+nameserver /southmongolia.org/proxy
 nameserver /southnews.com.tw/proxy
 nameserver /southpark.cc.com/proxy
 nameserver /sowers.org.hk/proxy
@@ -4737,9 +4765,11 @@ nameserver /spaces.hightail.com/proxy
 nameserver /spankbang.com/proxy
 nameserver /spankingtube.com/proxy
 nameserver /spankwire.com/proxy
+nameserver /spatial.io/proxy
 nameserver /spb.com/proxy
 nameserver /speakerdeck.com/proxy
 nameserver /specxinzl.jigsy.com/proxy
+nameserver /speedcat.me/proxy
 nameserver /speedify.com/proxy
 nameserver /spem.at/proxy
 nameserver /spencertipping.com/proxy
@@ -5022,8 +5052,7 @@ nameserver /thegay.com/proxy
 nameserver /thegioitinhoc.vn/proxy
 nameserver /thegly.com/proxy
 nameserver /theguardian.com/proxy
-nameserver /thehots.info/proxy
-nameserver /thehousenews.com/proxy
+nameserver /thehindu.com/proxy
 nameserver /thehun.net/proxy
 nameserver /theinitium.com/proxy
 nameserver /themoviedb.org/proxy
@@ -5045,6 +5074,7 @@ nameserver /thetrotskymovie.com/proxy
 nameserver /thetvdb.com/proxy
 nameserver /thevivekspot.com/proxy
 nameserver /thewgo.org/proxy
+nameserver /thewirechina.com/proxy
 nameserver /theync.com/proxy
 nameserver /thinkgeek.com/proxy
 nameserver /thinkingtaiwan.com/proxy
@@ -5507,6 +5537,7 @@ nameserver /usaip.eu/proxy
 nameserver /uscardforum.com/proxy
 nameserver /uscnpm.org/proxy
 nameserver /userapi.nytlog.com/proxy
+nameserver /usercontent.goog/proxy
 nameserver /users.skynet.be/proxy
 nameserver /usfk.mil/proxy
 nameserver /ushuarencity.echainhost.com/proxy
@@ -5581,7 +5612,6 @@ nameserver /video.aol.com/proxy
 nameserver /video.ap.org/proxy
 nameserver /video.fdbox.com/proxy
 nameserver /video.foxbusiness.com/proxy
-nameserver /video.pbs.org/proxy
 nameserver /video.yahoo.com/proxy
 nameserver /videobam.com/proxy
 nameserver /videodetective.com/proxy
@@ -5684,6 +5714,7 @@ nameserver /vpser.net/proxy
 nameserver /vraiesagesse.net/proxy
 nameserver /vrchat.com/proxy
 nameserver /vrmtr.com/proxy
+nameserver /vrporn.com/proxy
 nameserver /vrsmash.com/proxy
 nameserver /vtunnel.com/proxy
 nameserver /vuku.cc/proxy
@@ -5754,7 +5785,6 @@ nameserver /wefightcensorship.org/proxy
 nameserver /wefong.com/proxy
 nameserver /wego.here.com/proxy
 nameserver /weiboleak.com/proxy
-nameserver /weiboscope.jmsc.hku.hk/proxy
 nameserver /weihuo.org/proxy
 nameserver /weijingsheng.org/proxy
 nameserver /weiming.info/proxy
@@ -5830,7 +5860,6 @@ nameserver /windscribe.com/proxy
 nameserver /wingamestore.com/proxy
 nameserver /wingy.site/proxy
 nameserver /winning11.com/proxy
-nameserver /winwhispers.info/proxy
 nameserver /wionews.com/proxy
 nameserver /wire.com/proxy
 nameserver /wiredbytes.com/proxy
@@ -5952,9 +5981,8 @@ nameserver /x-wall.org/proxy
 nameserver /x.co/proxy
 nameserver /x.com/proxy
 nameserver /x.company/proxy
-nameserver /x1949x.com/proxy
 nameserver /x24hr.com/proxy
-nameserver /x365x.com/proxy
+nameserver /x3guide.com/proxy
 nameserver /xa.yimg.com/proxy
 nameserver /xanga.com/proxy
 nameserver /xbabe.com/proxy
