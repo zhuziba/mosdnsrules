@@ -794,6 +794,7 @@ nameserver /btcbank.bank/proxy
 nameserver /btctrade.im/proxy
 nameserver /btdig.com/proxy
 nameserver /btdigg.org/proxy
+nameserver /btguard.com/proxy
 nameserver /btku.me/proxy
 nameserver /btku.org/proxy
 nameserver /btspread.com/proxy
@@ -1412,6 +1413,7 @@ nameserver /dlive.tv/proxy
 nameserver /dlsite.com/proxy
 nameserver /dlyoutube.com/proxy
 nameserver /dm530.net/proxy
+nameserver /dma.mil/proxy
 nameserver /dmc.nico/proxy
 nameserver /dmcdn.net/proxy
 nameserver /dmhy.org/proxy
@@ -2400,7 +2402,7 @@ nameserver /googlemashups.com/proxy
 nameserver /googlepagecreator.com/proxy
 nameserver /googleplay.com/proxy
 nameserver /googleplus.com/proxy
-nameserver /googlescholar.comUSA/proxy
+nameserver /googlescholar.com/proxy
 nameserver /googlesile.com/proxy
 nameserver /googlesource.com/proxy
 nameserver /googleusercontent.com/proxy
@@ -2972,7 +2974,6 @@ nameserver /izaobao.us/proxy
 nameserver /izles.net/proxy
 nameserver /izlesem.org/proxy
 nameserver /j.mp/proxy
-nameserver /ja.wikipedia.org/proxy
 nameserver /jable.tv/proxy
 nameserver /jamaat.org/proxy
 nameserver /jamestown.org/proxy
@@ -4105,7 +4106,6 @@ nameserver /phayul.com/proxy
 nameserver /philborges.com/proxy
 nameserver /phmsociety.org/proxy
 nameserver /phncdn.com/proxy
-nameserver /phobos.apple.com/proxy
 nameserver /phosphation13.rssing.com/proxy
 nameserver /photodharma.net/proxy
 nameserver /photofocus.com/proxy
@@ -5492,6 +5492,7 @@ nameserver /typepad.com/proxy
 nameserver /typora.io/proxy
 nameserver /u15.info/proxy
 nameserver /u9un.com/proxy
+nameserver /ua5v.com/proxy
 nameserver /ub0.cc/proxy
 nameserver /ubddns.org/proxy
 nameserver /uberproxy.net/proxy
@@ -5515,6 +5516,8 @@ nameserver /ukliferadio.co.uk/proxy
 nameserver /uku.im/proxy
 nameserver /ulike.net/proxy
 nameserver /ulop.net/proxy
+nameserver /ultrasurf.us/proxy
+nameserver /ultravpn.com/proxy
 nameserver /ultravpn.fr/proxy
 nameserver /ultraxs.com/proxy
 nameserver /umich.edu/proxy
@@ -5566,6 +5569,7 @@ nameserver /us.to/proxy
 nameserver /usacn.com/proxy
 nameserver /usaip.eu/proxy
 nameserver /uscardforum.com/proxy
+nameserver /uscg.mil/proxy
 nameserver /uscnpm.org/proxy
 nameserver /userapi.nytlog.com/proxy
 nameserver /usercontent.goog/proxy
@@ -5730,6 +5734,7 @@ nameserver /vpnmentor.com/proxy
 nameserver /vpnpick.com/proxy
 nameserver /vpnpop.com/proxy
 nameserver /vpnpronet.com/proxy
+nameserver /vpnproxymaster.com/proxy
 nameserver /vpnreactor.com/proxy
 nameserver /vpnreviewz.com/proxy
 nameserver /vpnsecure.me/proxy
@@ -5871,6 +5876,8 @@ nameserver /wiki.jqueryui.com/proxy
 nameserver /wiki.keso.cn/proxy
 nameserver /wiki.oauth.net/proxy
 nameserver /wiki.phonegap.com/proxy
+nameserver /wikibooks.org/proxy
+nameserver /wikidata.org/proxy
 nameserver /wikileaks-forum.com/proxy
 nameserver /wikileaks.ch/proxy
 nameserver /wikileaks.com/proxy
@@ -5883,8 +5890,11 @@ nameserver /wikilivres.info/proxy
 nameserver /wikimapia.org/proxy
 nameserver /wikimedia.org/proxy
 nameserver /wikipedia.org/proxy
+nameserver /wikiversity.org/proxy
+nameserver /wikivoyage.org/proxy
 nameserver /wikiwand.com/proxy
 nameserver /wikiwiki.jp/proxy
+nameserver /wiktionary.org/proxy
 nameserver /wildammo.com/proxy
 nameserver /williamhill.com/proxy
 nameserver /willw.net/proxy
@@ -5909,6 +5919,7 @@ nameserver /wjbk.org/proxy
 nameserver /wlcnew.jigsy.com/proxy
 nameserver /wlx.sowiki.net/proxy
 nameserver /wmflabs.org/proxy
+nameserver /wmfusercontent.org/proxy
 nameserver /wn.com/proxy
 nameserver /wnacg.com/proxy
 nameserver /wnacg.org/proxy
@@ -6117,6 +6128,7 @@ nameserver /yande.re/proxy
 nameserver /yanghengjun.com/proxy
 nameserver /yangjianli.com/proxy
 nameserver /yasni.co.uk/proxy
+nameserver /yasukuni.or.jp/proxy
 nameserver /yayabay.com/proxy
 nameserver /ydy.com/proxy
 nameserver /yeahteentube.com/proxy
@@ -6188,6 +6200,7 @@ nameserver /yuanming.net/proxy
 nameserver /yuanzhengtang.org/proxy
 nameserver /yulghun.com/proxy
 nameserver /yunchao.net/proxy
+nameserver /yunomi.tokyo/proxy
 nameserver /yuvutu.com/proxy
 nameserver /yvesgeleyn.com/proxy
 nameserver /ywpw.com/proxy
