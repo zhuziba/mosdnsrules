@@ -22,7 +22,6 @@ payload:
  - DOMAIN-SUFFIX,kkgithub.com
  - DOMAIN-SUFFIX,jike.info
  - DOMAIN-SUFFIX,kstore.dev
- - DOMAIN-SUFFIX,wavse.com
  - DOMAIN-SUFFIX,koyso.com
  #apple
  - DOMAIN-SUFFIX,apple.com
