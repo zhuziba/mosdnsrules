@@ -15,7 +15,7 @@ jobs:
         mkdir -p ./m3u
         wget -O ./m3u/91.m3u http://serv.cloudns.be/91.m3u
         mkdir -p ./yaml
-        wget -O ./yaml/fq.m3u http://serv.cloudns.be/yaml/fq.yaml
+        wget -O ./yaml/fq.yaml http://serv.cloudns.be/yaml/fq.yaml
     - name: down smartdns
       run: |
         mkdir -p ./smartdns
