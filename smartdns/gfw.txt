@@ -260,6 +260,7 @@ nameserver /amazon.com/proxy
 nameserver /ameblo.jp/proxy
 nameserver /americangreencard.com/proxy
 nameserver /americanunfinished.com/proxy
+nameserver /americorps.gov/proxy
 nameserver /amiblockedornot.com/proxy
 nameserver /amigobbs.net/proxy
 nameserver /amitabhafoundation.us/proxy
@@ -897,6 +898,7 @@ nameserver /cbtc.org.hk/proxy
 nameserver /cccat.cc/proxy
 nameserver /cccat.co/proxy
 nameserver /ccdtr.org/proxy
+nameserver /ccfd.org.tw/proxy
 nameserver /cchere.com/proxy
 nameserver /ccim.org/proxy
 nameserver /cclife.ca/proxy
@@ -2146,7 +2148,6 @@ nameserver /go141.com/proxy
 nameserver /goagent.biz/proxy
 nameserver /goagent.codeplex.com/proxy
 nameserver /goagentplus.com/proxy
-nameserver /gobet.cc/proxy
 nameserver /godaddy.com/proxy
 nameserver /godfootsteps.org/proxy
 nameserver /godns.work/proxy
@@ -2430,6 +2431,7 @@ nameserver /graph.org/proxy
 nameserver /graphis.ne.jp/proxy
 nameserver /graphql.org/proxy
 nameserver /gravatar.com/proxy
+nameserver /greasyfork.org/proxy
 nameserver /great-firewall.com/proxy
 nameserver /great-roc.org/proxy
 nameserver /greatfire.org/proxy
@@ -2900,6 +2902,7 @@ nameserver /inxian.com/proxy
 nameserver /iownyour.biz/proxy
 nameserver /iownyour.org/proxy
 nameserver /ipalter.com/proxy
+nameserver /ipdefenseforum.com/proxy
 nameserver /ipfire.org/proxy
 nameserver /ipfs.io/proxy
 nameserver /iphone4hongkong.com/proxy
@@ -3812,6 +3815,7 @@ nameserver /no-ip.org/proxy
 nameserver /nobel.se/proxy
 nameserver /nobelprize.org/proxy
 nameserver /nobodycanstop.us/proxy
+nameserver /nodeseek.com/proxy
 nameserver /nofile.io/proxy
 nameserver /nokogiri.org/proxy
 nameserver /nokola.com/proxy
@@ -3835,7 +3839,6 @@ nameserver /npa.go.jp/proxy
 nameserver /npa.gov.tw/proxy
 nameserver /npm.gov.tw/proxy
 nameserver /npnt.me/proxy
-nameserver /nps.gov/proxy
 nameserver /npsboost.com/proxy
 nameserver /nradio.me/proxy
 nameserver /nrk.no/proxy
@@ -4022,6 +4025,7 @@ nameserver /ozyoyo.com/proxy
 nameserver /pachosting.com/proxy
 nameserver /pacificpoker.com/proxy
 nameserver /packetix.net/proxy
+nameserver /pacom.mil/proxy
 nameserver /pacopacomama.com/proxy
 nameserver /padmanet.com/proxy
 nameserver /page.bid.yahoo.com/proxy
@@ -5576,7 +5580,6 @@ nameserver /usercontent.goog/proxy
 nameserver /users.skynet.be/proxy
 nameserver /usfk.mil/proxy
 nameserver /ushuarencity.echainhost.com/proxy
-nameserver /usinfo.state.gov/proxy
 nameserver /usma.edu/proxy
 nameserver /usmc.mil/proxy
 nameserver /usmgtcg.ning.com/proxy
@@ -5975,7 +5978,6 @@ nameserver /wuyanblog.com/proxy
 nameserver /wwitv.com/proxy
 nameserver /www.abclite.net/proxy
 nameserver /www.ajsands.com/proxy
-nameserver /www.americorps.gov/proxy
 nameserver /www.antd.org/proxy
 nameserver /www.aolnews.com/proxy
 nameserver /www.businessinsider.com.au/proxy
