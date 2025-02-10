@@ -1,10 +1,11 @@
 payload:
   - DOMAIN-SUFFIX,ghostland.at
+  - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,serv00.com
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,emuyuzu.com
-  - DOMAIN-SUFFIX,files-prodkeys.b-cdn.net
+  - DOMAIN-SUFFIX,b-cdn.net
   - DOMAIN-SUFFIX,cchi.me
   - DOMAIN-SUFFIX,ipip5.com
   - DOMAIN-SUFFIX,1link.club
@@ -16,7 +17,6 @@ payload:
   - DOMAIN-SUFFIX,ttvnw.net
   - DOMAIN-SUFFIX,godaddy.com
   - DOMAIN-SUFFIX,hongkongdollvideo.com
-  - DOMAIN-SUFFIX,91porn.com
   - DOMAIN-SUFFIX,cloudns.be
   - DOMAIN-SUFFIX,hsck.net
   - DOMAIN-SUFFIX,hsck.la
@@ -97,3 +97,5 @@ payload:
   #io
   - DOMAIN-SUFFIX,gofile.io
   - DOMAIN-SUFFIX,switchedtwo.to
+  #cf
+  - DOMAIN-SUFFIX,cloudflare.com
