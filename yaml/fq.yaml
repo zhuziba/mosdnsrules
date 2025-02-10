@@ -54,8 +54,6 @@ payload:
   #游戏
   - DOMAIN-SUFFIX,ddnet.org
   - DOMAIN-SUFFIX,nxbrew-net.b-cdn.net
-  #cdn
-  - DOMAIN-SUFFIX,cdn2020.com
   #海外看
   - DOMAIN-SUFFIX,nn.ci
   - DOMAIN-SUFFIX,krxgtwg4q7s2.com
