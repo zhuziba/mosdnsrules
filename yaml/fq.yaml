@@ -97,5 +97,3 @@ payload:
   #io
   - DOMAIN-SUFFIX,gofile.io
   - DOMAIN-SUFFIX,switchedtwo.to
-  #cf
-  - DOMAIN-SUFFIX,cloudflare.com
