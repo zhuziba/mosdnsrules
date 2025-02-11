@@ -10,6 +10,8 @@ jobs:
     runs-on: Ubuntu-20.04  
     steps:
     - uses: actions/checkout@v4
+    - name: Record time  
+      run: echo `date` > ./date.log
     - name: down serv
       run: |
         mkdir -p ./m3u
