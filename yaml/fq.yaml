@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,nxbrew.net
+  - DOMAIN-SUFFIX,nswgame.com
   - DOMAIN-SUFFIX,ghostland.at
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,pinimg.com
