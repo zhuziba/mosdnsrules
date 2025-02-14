@@ -28,3 +28,5 @@ payload:
  - DOMAIN-SUFFIX,icloud.com
  #megaup
  - DOMAIN-SUFFIX,megaup.net
+ #top
+ - DOMAIN-SUFFIX,pai233.top
