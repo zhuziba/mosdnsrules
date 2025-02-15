@@ -23,6 +23,8 @@ payload:
  - DOMAIN-SUFFIX,jike.info
  - DOMAIN-SUFFIX,kstore.dev
  - DOMAIN-SUFFIX,koyso.com
+ - DOMAIN-SUFFIX,wogg.net
+ - DOMAIN-SUFFIX,xxooo.cf
  #apple
  - DOMAIN-SUFFIX,apple.com
  - DOMAIN-SUFFIX,icloud.com

@@ -1,12 +1,12 @@
 payload:
-#windows
-  - DOMAIN-SUFFIX,msn.cn
-  - DOMAIN-SUFFIX,msn.com
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,bingapis.com
-  - DOMAIN-SUFFIX,windows.com
-  - DOMAIN-SUFFIX,office.com
-  - DOMAIN-SUFFIX,microsoft.net
-  - DOMAIN-SUFFIX,microsoft.com
-  - DOMAIN-SUFFIX,live.com
-  - DOMAIN-SUFFIX,onedrive.com
+ - DOMAIN-SUFFIX,msn.cn
+ - DOMAIN-SUFFIX,msn.com
+ - DOMAIN-SUFFIX,bing.com
+ - DOMAIN-SUFFIX,bingapis.com
+ - DOMAIN-SUFFIX,windows.com
+ - DOMAIN-SUFFIX,windows.net
+ - DOMAIN-SUFFIX,office.com
+ - DOMAIN-SUFFIX,microsoft.net
+ - DOMAIN-SUFFIX,microsoft.com
+ - DOMAIN-SUFFIX,live.com
+ - DOMAIN-SUFFIX,onedrive.com
