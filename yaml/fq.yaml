@@ -1,4 +1,8 @@
+#代理
 payload:
+- DOMAIN-SUFFIX,ghostland.at
 - DOMAIN-SUFFIX,nswgame.com
 - DOMAIN-SUFFIX,github.com
+- DOMAIN-SUFFIX,githubassets.com
+- DOMAIN-SUFFIX,githubusercontent.com
 - DOMAIN-SUFFIX,metacubex.one
