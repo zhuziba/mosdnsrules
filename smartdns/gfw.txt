@@ -93,6 +93,7 @@ nameserver /5aimiku.com/proxy
 nameserver /5i01.com/proxy
 nameserver /5isotoi5.org/proxy
 nameserver /5maodang.com/proxy
+nameserver /611study.icu/proxy
 nameserver /63i.com/proxy
 nameserver /64museum.org/proxy
 nameserver /64tianwang.com/proxy
@@ -3752,6 +3753,7 @@ nameserver /news.singtao.ca/proxy
 nameserver /news.tvbs.com.tw/proxy
 nameserver /news.yahoo.com/proxy
 nameserver /news.ycombinator.com/proxy
+nameserver /news1.kr/proxy
 nameserver /news100.com.tw/proxy
 nameserver /newsancai.com/proxy
 nameserver /newsblur.com/proxy
@@ -4121,6 +4123,7 @@ nameserver /picidae.net/proxy
 nameserver /picturedip.com/proxy
 nameserver /pictures.playboy.com/proxy
 nameserver /picturesocial.com/proxy
+nameserver /picuki.com/proxy
 nameserver /pigav.com/proxy
 nameserver /pimg.tw/proxy
 nameserver /pin-cong.com/proxy
@@ -4892,7 +4895,6 @@ nameserver /streema.com/proxy
 nameserver /strikingly.com/proxy
 nameserver /strongvpn.com/proxy
 nameserver /strongwindpress.com/proxy
-nameserver /student.tw/proxy
 nameserver /studentsforafreetibet.org/proxy
 nameserver /stumbleupon.com/proxy
 nameserver /stupidvideos.com/proxy
