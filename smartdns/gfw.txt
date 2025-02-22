@@ -1166,6 +1166,7 @@ nameserver /cochina.org/proxy
 nameserver /code1984.com/proxy
 nameserver /codeshare.io/proxy
 nameserver /codeskulptor.org/proxy
+nameserver /cofacts.tw/proxy
 nameserver /coin2co.in/proxy
 nameserver /coinbase.com/proxy
 nameserver /coinbene.com/proxy
@@ -2451,6 +2452,7 @@ nameserver /greenreadings.com/proxy
 nameserver /greenvpn.net/proxy
 nameserver /greenvpn.org/proxy
 nameserver /grindr.com/proxy
+nameserver /grok.com/proxy
 nameserver /grotty-monday.com/proxy
 nameserver /ground.news/proxy
 nameserver /groups.google.cn/proxy
