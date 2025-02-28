@@ -787,6 +787,7 @@ nameserver /brookings.edu/proxy
 nameserver /brucewang.net/proxy
 nameserver /brutaltgp.com/proxy
 nameserver /bsky.app/proxy
+nameserver /bsky.network/proxy
 nameserver /bsky.social/proxy
 nameserver /bt95.com/proxy
 nameserver /btaia.com/proxy

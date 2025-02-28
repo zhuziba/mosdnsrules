@@ -23,9 +23,6 @@ payload:
  - DOMAIN,astat.bugly.qq.com
  - DOMAIN,ios.bugly.qq.com
  - DOMAIN,sdk.e.qq.com
- - DOMAIN,otheve.beacon.qq.com
- - DOMAIN,aeventlog.beacon.qq.com
- - DOMAIN,astrategy.beacon.qq.com
  - DOMAIN,log3-misc-lf.amemv.com
  - DOMAIN-SUFFIX,umeng.com
  - DOMAIN-SUFFIX,jpush.io
