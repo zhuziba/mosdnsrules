@@ -104,6 +104,7 @@ nameserver /64wiki.com/proxy
 nameserver /66.ca/proxy
 nameserver /666kb.com/proxy
 nameserver /666pool.cn/proxy
+nameserver /69shuba.cx/proxy
 nameserver /6do.news/proxy
 nameserver /6do.world/proxy
 nameserver /6park.com/proxy
@@ -2178,6 +2179,7 @@ nameserver /gitbook.io/proxy
 nameserver /github.blog/proxy
 nameserver /github.com/proxy
 nameserver /github.io/proxy
+nameserver /githubassets.com/proxy
 nameserver /githubcopilot.com/proxy
 nameserver /githubusercontent.com/proxy
 nameserver /gizlen.net/proxy
@@ -2446,6 +2448,7 @@ nameserver /google.tt/proxy
 nameserver /google.vg/proxy
 nameserver /google.vu/proxy
 nameserver /google.ws/proxy
+nameserver /googleapis.com/proxy
 nameserver /googleapps.com/proxy
 nameserver /googlearth.com/proxy
 nameserver /googleartproject.com/proxy
@@ -3464,7 +3467,6 @@ nameserver /mansionpoker.com/proxy
 nameserver /manta.com/proxy
 nameserver /manyvoices.news/proxy
 nameserver /maplew.com/proxy
-nameserver /maps.googleapis.com/proxy
 nameserver /marc.info/proxy
 nameserver /marguerite.su/proxy
 nameserver /martau.com/proxy
@@ -4289,6 +4291,7 @@ nameserver /politicalchina.org/proxy
 nameserver /politicalconsultation.org/proxy
 nameserver /politiscales.net/proxy
 nameserver /poloniex.com/proxy
+nameserver /polymarket.com/proxy
 nameserver /polymer-project.org/proxy
 nameserver /polymerhk.com/proxy
 nameserver /poolbinance.com/proxy
@@ -5450,7 +5453,6 @@ nameserver /tracfone.com/proxy
 nameserver /tradingview.com/proxy
 nameserver /trans.wenweipo.com/proxy
 nameserver /translate.goog/proxy
-nameserver /translate.googleapis.com/proxy
 nameserver /transparency.org/proxy
 nameserver /treemall.com.tw/proxy
 nameserver /trendsmap.com/proxy
@@ -6047,7 +6049,6 @@ nameserver /wikisource.org/proxy
 nameserver /wikiversity.org/proxy
 nameserver /wikivoyage.org/proxy
 nameserver /wikiwand.com/proxy
-nameserver /wikiwiki.jp/proxy
 nameserver /wiktionary.org/proxy
 nameserver /wildammo.com/proxy
 nameserver /williamhill.com/proxy
