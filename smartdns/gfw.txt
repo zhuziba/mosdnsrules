@@ -3702,6 +3702,7 @@ nameserver /multiupload.com/proxy
 nameserver /mummysgold.com/proxy
 nameserver /murmur.tw/proxy
 nameserver /musicade.net/proxy
+nameserver /musixmatch.com/proxy
 nameserver /muslimvideo.com/proxy
 nameserver /muzi.com/proxy
 nameserver /muzi.net/proxy
@@ -5620,6 +5621,7 @@ nameserver /twitturly.com/proxy
 nameserver /twitvid.com/proxy
 nameserver /twitzap.com/proxy
 nameserver /twiyia.com/proxy
+nameserver /twkan.com/proxy
 nameserver /twnorth.org.tw/proxy
 nameserver /twreporter.org/proxy
 nameserver /twskype.com/proxy
