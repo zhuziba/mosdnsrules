@@ -999,6 +999,7 @@ nameserver /chaos.social/proxy
 nameserver /chapm25.com/proxy
 nameserver /character.ai/proxy
 nameserver /chat.lmsys.org/proxy
+nameserver /chat.openai.com/proxy
 nameserver /chatgpt.com/proxy
 nameserver /chatnook.com/proxy
 nameserver /chaturbate.com/proxy
@@ -4079,7 +4080,7 @@ nameserver /ontrac.com/proxy
 nameserver /oopsforum.com/proxy
 nameserver /open.com.hk/proxy
 nameserver /open.firstory.me/proxy
-nameserver /openai.com/proxy
+nameserver /open.spotify.com/proxy
 nameserver /openallweb.com/proxy
 nameserver /opendemocracy.net/proxy
 nameserver /opendn.xyz/proxy
@@ -4940,7 +4941,6 @@ nameserver /spiderpool.com/proxy
 nameserver /spike.com/proxy
 nameserver /sports.williamhill.com/proxy
 nameserver /spotflux.com/proxy
-nameserver /spotify.com/proxy
 nameserver /spreadsheet.new/proxy
 nameserver /spreadshirt.es/proxy
 nameserver /spreaker.com/proxy
