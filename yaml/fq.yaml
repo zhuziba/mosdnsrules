@@ -2,6 +2,7 @@ payload:
 - DOMAIN-SUFFIX,ghostland.at
 - DOMAIN-SUFFIX,nswgame.com
 - DOMAIN-SUFFIX,github.com
+- DOMAIN-SUFFIX,gitbook.io
 - DOMAIN-SUFFIX,githubassets.com
 - DOMAIN-SUFFIX,githubusercontent.com
 - DOMAIN-SUFFIX,metacubex.one
@@ -12,6 +13,7 @@ payload:
 - DOMAIN-SUFFIX,filepv.com
 - DOMAIN-SUFFIX,byruthub.org
 - DOMAIN-SUFFIX,byrutgame.org
+- DOMAIN-SUFFIX,greasyfork.org
 - DOMAIN-SUFFIX,fuli.one
 - DOMAIN-SUFFIX,7000.me
 - DOMAIN-SUFFIX,91porn.com
@@ -21,3 +23,4 @@ payload:
 - DOMAIN-SUFFIX,download-send.com
 - DOMAIN-SUFFIX,1link.club
 - DOMAIN-SUFFIX,linshiyou.com
+- DOMAIN-SUFFIX,gravatar.com
