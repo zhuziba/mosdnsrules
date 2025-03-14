@@ -1828,7 +1828,6 @@ nameserver /fartit.com/proxy
 nameserver /farwestchina.com/proxy
 nameserver /fast.wistia.com/proxy
 nameserver /fastestvpn.com/proxy
-nameserver /fastgpt.run/proxy
 nameserver /fastpic.ru/proxy
 nameserver /fastssh.com/proxy
 nameserver /faststone.org/proxy
