@@ -324,6 +324,7 @@ nameserver /aofriend.com/proxy
 nameserver /aofriend.com.au/proxy
 nameserver /aojiao.org/proxy
 nameserver /aolchannels.aol.com/proxy
+nameserver /aomedia.org/proxy
 nameserver /aomiwang.com/proxy
 nameserver /apartmentratings.com/proxy
 nameserver /apartments.com/proxy
@@ -4351,7 +4352,7 @@ nameserver /powercx.com/proxy
 nameserver /powerphoto.org/proxy
 nameserver /ppy.sh/proxy
 nameserver /prayforchina.net/proxy
-nameserver /premeforwindows7.com/proxy
+nameserver /prcleader.org/proxy
 nameserver /premproxy.com/proxy
 nameserver /presentation.new/proxy
 nameserver /presentationzen.com/proxy
