@@ -1212,6 +1212,7 @@ nameserver /cofacts.tw/proxy
 nameserver /coin2co.in/proxy
 nameserver /coinbase.com/proxy
 nameserver /coinbene.com/proxy
+nameserver /coincarp.com/proxy
 nameserver /coinegg.com/proxy
 nameserver /coinex.com/proxy
 nameserver /coingecko.com/proxy
@@ -1649,7 +1650,6 @@ nameserver /empfil.com/proxy
 nameserver /emule-ed2k.com/proxy
 nameserver /emulefans.com/proxy
 nameserver /emuparadise.me/proxy
-nameserver /en.favotter.net/proxy
 nameserver /en.hao123.com/proxy
 nameserver /enanyang.my/proxy
 nameserver /encrypt.me/proxy
@@ -1805,6 +1805,7 @@ nameserver /fan-qiang.com/proxy
 nameserver /fanbox.cc/proxy
 nameserver /fangbinxing.com/proxy
 nameserver /fangeming.com/proxy
+nameserver /fangeming.comffvpn.com/proxy
 nameserver /fangeqiang.com/proxy
 nameserver /fanglizhi.info/proxy
 nameserver /fangmincn.org/proxy
@@ -1827,13 +1828,11 @@ nameserver /faproxy.com/proxy
 nameserver /faqserv.com/proxy
 nameserver /fartit.com/proxy
 nameserver /farwestchina.com/proxy
-nameserver /fast.wistia.com/proxy
 nameserver /fastestvpn.com/proxy
 nameserver /fastpic.ru/proxy
 nameserver /fastssh.com/proxy
 nameserver /faststone.org/proxy
 nameserver /fatbtc.com/proxy
-nameserver /favstar.fm/proxy
 nameserver /fawanghuihui.org/proxy
 nameserver /faydao.com/proxy
 nameserver /faz.net/proxy
@@ -1844,14 +1843,10 @@ nameserver /fbaddins.com/proxy
 nameserver /fbcdn.net/proxy
 nameserver /fbsbx.com/proxy
 nameserver /fbworkmail.com/proxy
-nameserver /fc2.com/proxy
-nameserver /fc2blog.net/proxy
-nameserver /fc2china.com/proxy
 nameserver /fc2cn.com/proxy
 nameserver /fda.gov.tw/proxy
 nameserver /fdc64.de/proxy
 nameserver /fdc64.org/proxy
-nameserver /fdc89.jp/proxy
 nameserver /feedburner.com/proxy
 nameserver /feeder.co/proxy
 nameserver /feeds.fileforum.com/proxy
@@ -1867,8 +1862,6 @@ nameserver /fengzhenghu.com/proxy
 nameserver /fengzhenghu.net/proxy
 nameserver /fevernet.com/proxy
 nameserver /ff.im/proxy
-nameserver /fffff.at/proxy
-nameserver /fflick.com/proxy
 nameserver /ffvpn.com/proxy
 nameserver /fgmtv.net/proxy
 nameserver /fgmtv.org/proxy
@@ -2136,6 +2129,7 @@ nameserver /geekerhome.com/proxy
 nameserver /geekheart.info/proxy
 nameserver /gekikame.com/proxy
 nameserver /gelbooru.com/proxy
+nameserver /gemini.com/proxy
 nameserver /generated.photos/proxy
 nameserver /genius.com/proxy
 nameserver /geocities.co.jp/proxy
@@ -4065,6 +4059,7 @@ nameserver /omny.fm/proxy
 nameserver /on.cc/proxy
 nameserver /on2.com/proxy
 nameserver /onapp.com/proxy
+nameserver /one.one.one.one/proxy
 nameserver /onedrive.com/proxy
 nameserver /onedrive.live.com/proxy
 nameserver /onedumb.com/proxy
@@ -5808,7 +5803,6 @@ nameserver /video.aol.ca/proxy
 nameserver /video.aol.co.uk/proxy
 nameserver /video.aol.com/proxy
 nameserver /video.ap.org/proxy
-nameserver /video.fdbox.com/proxy
 nameserver /video.foxbusiness.com/proxy
 nameserver /videobam.com/proxy
 nameserver /videodetective.com/proxy
