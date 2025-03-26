@@ -10,6 +10,8 @@ payload:
 - DOMAIN-SUFFIX,pixeldrain.com
 - DOMAIN-SUFFIX,aptoide.com
 - DOMAIN-SUFFIX,b-cdn.net
+- DOMAIN-SUFFIX,ipify.org
+- DOMAIN-SUFFIX,greasyfork.org
 - DOMAIN-SUFFIX,filepv.com
 - DOMAIN-SUFFIX,byruthub.org
 - DOMAIN-SUFFIX,byrutgame.org
