@@ -1,6 +1,8 @@
 payload:
 - DOMAIN-SUFFIX,ghostland.at
 - DOMAIN-SUFFIX,nswgame.com
+- DOMAIN-SUFFIX,docker.com
+- DOMAIN-SUFFIX,vercel.app
 - DOMAIN-SUFFIX,github.com
 - DOMAIN-SUFFIX,gitbook.io
 - DOMAIN-SUFFIX,githubassets.com
