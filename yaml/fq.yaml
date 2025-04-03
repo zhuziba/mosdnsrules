@@ -33,3 +33,4 @@ payload:
 - DOMAIN-SUFFIX,gravatar.com
 #ys
 - DOMAIN-SUFFIX,ptt.red
+- IP-CIDR,213.189.52.0/24
