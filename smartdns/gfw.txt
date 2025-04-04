@@ -423,6 +423,7 @@ nameserver /atnext.com/proxy
 nameserver /auctions.yahoo.co.jp/proxy
 nameserver /audacy.com/proxy
 nameserver /auntology.fandom.com/proxy
+nameserver /auth.openai.com/proxy
 nameserver /authorizeddns.net/proxy
 nameserver /authorizeddns.org/proxy
 nameserver /authorizeddns.us/proxy
@@ -4087,6 +4088,7 @@ nameserver /open.firstory.me/proxy
 nameserver /open.spotify.com/proxy
 nameserver /openallweb.com/proxy
 nameserver /opendemocracy.net/proxy
+nameserver /opendesktop.org/proxy
 nameserver /opendn.xyz/proxy
 nameserver /openervpn.in/proxy
 nameserver /openid.net/proxy
