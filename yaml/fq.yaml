@@ -33,5 +33,7 @@ payload:
 - DOMAIN-SUFFIX,gravatar.com
 #ys
 - DOMAIN-SUFFIX,ptt.red
+- DOMAIN-SUFFIX,applnn.com
 - DOMAIN-SUFFIX,aeonfree.com
+- DOMAIN-SUFFIX,jsdelivr.net
 - IP-CIDR,213.189.52.0/24
