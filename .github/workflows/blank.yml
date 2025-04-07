@@ -58,47 +58,7 @@ jobs:
         wget -O ./gfw.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
     - name: down switchsd
       run: |
-        mkdir -p ./switchsd
-        wget -O /tmp/atmosphere.zip https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.8.0-prerelease/atmosphere-1.8.0-master-c6014b533+hbl-2.4.4+hbmenu-3.6.0.zip
-        #wget -O /tmp/hekate.zip https://github.com/CTCaer/hekate/releases/download/v6.2.2/hekate_ctcaer_6.2.2_Nyx_1.6.4.zip
-        wget -O /tmp/hekate.zip https://github.com/easyworld/hekate/releases/download/v6.2.2/hekate_ctcaer_6.2.2_Nyx_1.6.4_sc.zip
-        unzip -o /tmp/atmosphere.zip -d ./switchsd
-        unzip -o /tmp/hekate.zip -d ./switchsd
-        mv ./switchsd/hekate_ctcaer_6.2.2.bin ./switchsd/payload.bin
-        wget -O ./switchsd/bootloader/payloads/TegraExplorer.bin https://github.com/suchmememanyskill/TegraExplorer/releases/latest/download/TegraExplorer.bin
-        wget -O ./switchsd/bootloader/payloads/fusee.bin https://github.com/Atmosphere-NX/Atmosphere/releases/latest/download/fusee.bin
-        wget -O ./switchsd/switch/DBI/dbi.config  https://github.com/rashevskyv/dbi/releases/download/750ru/dbi.config
-        mkdir -p ./switchsd/switch/DBI
-        wget -O ./switchsd/switch/DBI/DBI.nro https://github.com/rashevskyv/dbi/releases/download/750ru/DBI.nro
-        mkdir -p ./switchsd/switch/JKSV
-        wget -O ./switchsd/switch/JKSV/JKSV.nro https://github.com/J-D-K/JKSV/releases/latest/download/JKSV.nro
-        mkdir -p ./switchsd/switch/Goldleaf
-        wget -O ./switchsd/switch/Goldleaf/Goldleaf.nro https://github.com/XorTroll/Goldleaf/releases/latest/download/Goldleaf.nro
-        mkdir -p ./switchsd/switch/Amiigo
-        wget -O ./switchsd/switch/Amiigo/Amiigo.nro https://github.com/CompSciOrBust/Amiigo/releases/latest/download/Amiigo.nro
-        mkdir -p ./switchsd/switch/appstore
-        wget -O ./switchsd/switch/appstore/appstore.nro https://github.com/fortheusers/hb-appstore/releases/latest/download/appstore.nro
-        mkdir -p ./switchsd/switch/90DNS
-        wget -O ./switchsd/switch/90DNS/90DNS_tester.nro https://github.com/meganukebmp/Switch_90DNS_tester/releases/download/v1.0.4/Switch_90DNS_tester.nro
-        #wget -O /tmp/sigpatches.zip https://sigmapatches.su/sigpatches.zip
-        #unzip -o /tmp/sigpatches.zip -d ./switchsd
-        wget -O ./switchsd/switch/.overlays/ovlSysmodules.ovl https://github.com/WerWolv/ovl-sysmodules/releases/download/v1.3.1/ovlSysmodules.ovl
-        wget -O ./switchsd/switch/.overlays/ovlmenu.ovl https://github.com/ppkantorski/Ultrahand-Overlay/releases/latest/download/ovlmenu.ovl
-        wget -O /tmp/sys-clk.zip https://github.com/retronx-team/sys-clk/releases/download/2.0.1/sys-clk-2.0.1.zip
-        unzip -o /tmp/sys-clk.zip -d ./switchsd
-        rm -rf ./switchsd/README.md
-        wget -O /tmp/nx-ovlloader.zip https://github.com/WerWolv/nx-ovlloader/releases/download/v1.0.7/nx-ovlloader.zip
-        unzip -o /tmp/nx-ovlloader.zip -d ./switchsd
-        sudo apt-get install p7zip-full
-        wget -O /tmp/nx-tab.7z https://download.switchroot.org/android-11/nx-tab-beta2.75-20230705-rel.7z
-        7z x /tmp/nx-tab.7z -y -o./switchsd/
-        rm -rf ./switchsd/lineage-18.1-20230705-UNOFFICIAL-nx_tab.zip
-        wget -O /tmp/wiliwili.zip https://github.com/xfangfang/wiliwili/releases/latest/download/wiliwili-NintendoSwitch.zip
-        unzip -o /tmp/wiliwili.zip -d ./switchsd/switch
-        rm -rf ./switchsd/switch/wiliwili/安装必读.txt
-        wget -O /tmp/tencent-switcher-gui.zip https://github.com/CaiMiao/Tencent-switcher-GUI/releases/download/0.1.2/tencent-switcher-gui.zip
-        mkdir -p ./switchsd/switch/tencent
-        unzip -o /tmp/tencent-switcher-gui.zip -d ./switchsd/switch/tencent
+        rm -rf ./switchsd
     - name: 'Commit Files'
       id: commit
       run: |
