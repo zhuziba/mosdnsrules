@@ -36,4 +36,5 @@ payload:
 - DOMAIN-SUFFIX,applnn.com
 - DOMAIN-SUFFIX,aeonfree.com
 - DOMAIN-SUFFIX,jsdelivr.net
+- DOMAIN-SUFFIX,thereadme.com
 - IP-CIDR,213.189.52.0/24
