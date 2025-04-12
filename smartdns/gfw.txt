@@ -422,6 +422,7 @@ nameserver /atlaspost.com/proxy
 nameserver /atnext.com/proxy
 nameserver /auctions.yahoo.co.jp/proxy
 nameserver /audacy.com/proxy
+nameserver /audiomack.com/proxy
 nameserver /auntology.fandom.com/proxy
 nameserver /auth.openai.com/proxy
 nameserver /authorizeddns.net/proxy
@@ -1162,7 +1163,6 @@ nameserver /cloakpoint.com/proxy
 nameserver /cloud.dify.ai/proxy
 nameserver /cloud.mail.ru/proxy
 nameserver /cloudflare-ipfs.com/proxy
-nameserver /cloudfront.net/proxy
 nameserver /cloudfunctions.net/proxy
 nameserver /club1069.com/proxy
 nameserver /clubhouseapi.com/proxy
@@ -4621,6 +4621,7 @@ nameserver /s1s1s1.com/proxy
 nameserver /s3-ap-southeast-1.amazonaws.com/proxy
 nameserver /s3-ap-southeast-2.amazonaws.com/proxy
 nameserver /s3.amazonaws.com/proxy
+nameserver /s3.eu-central-1.amazonaws.com/proxy
 nameserver /s8forum.com/proxy
 nameserver /sa.hao123.com/proxy
 nameserver /sacks.com/proxy
