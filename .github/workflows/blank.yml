@@ -12,19 +12,6 @@ jobs:
     - uses: actions/checkout@v4
     - name: Record time  
       run: echo `date` > ./date.log
-    - name: down serv
-      run: |
-        mkdir -p ./m3u
-        wget -O ./m3u/91.m3u http://serv.cloudns.be/91.m3u
-        mkdir -p ./yaml
-        wget -O ./yaml/fq.yaml http://serv.cloudns.be/yaml/fq.yaml
-        wget -O ./yaml/steam.yaml http://serv.cloudns.be/yaml/steam.yaml
-        wget -O ./yaml/Telegram.yaml http://serv.cloudns.be/yaml/Telegram.yaml
-        wget -O ./yaml/google.yaml http://serv.cloudns.be/yaml/google.yaml
-        wget -O ./yaml/zhilian.yaml http://serv.cloudns.be/yaml/zhilian.yaml
-        wget -O ./yaml/BanAD.yaml http://serv.cloudns.be/yaml/BanAD.yaml
-        wget -O ./yaml/netflix.yaml http://serv.cloudns.be/yaml/netflix.yaml
-        wget -O ./yaml/windows.yaml http://serv.cloudns.be/yaml/windows.yaml
     - name: down smartdns
       run: |
         mkdir -p ./smartdns
