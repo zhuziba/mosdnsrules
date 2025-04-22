@@ -37,6 +37,7 @@ payload:
 - DOMAIN-SUFFIX,aeonfree.com
 - DOMAIN-SUFFIX,jsdelivr.net
 - DOMAIN-SUFFIX,pythonhosted.org
+- DOMAIN-SUFFIX,hz.cz
 - IP-CIDR,173.245.48.0/20
 - IP-CIDR,103.21.244.0/22
 - IP-CIDR,103.22.200.0/22
