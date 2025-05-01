@@ -16,7 +16,6 @@ payload:
 - DOMAIN-SUFFIX,tnt-ea.com
 #游戏
 - DOMAIN-SUFFIX,gaggle.fun
-- DOMAIN-SUFFIX,ddnet.org
 - DOMAIN-SUFFIX,multiplay.com
 - DOMAIN-SUFFIX,cloudfunctions.net
 - DOMAIN-SUFFIX,oncatapult.com
