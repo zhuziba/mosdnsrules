@@ -37,6 +37,7 @@ nameserver /1bao.org/proxy
 nameserver /1dumb.com/proxy
 nameserver /1e100.net/proxy
 nameserver /1eew.com/proxy
+nameserver /1lib.sk/proxy
 nameserver /1mobile.com/proxy
 nameserver /1mobile.tw/proxy
 nameserver /1point3acres.com/proxy
@@ -209,7 +210,6 @@ nameserver /agro.hk/proxy
 nameserver /ai-kan.net/proxy
 nameserver /ai-wen.net/proxy
 nameserver /ai.binwang.me/proxy
-nameserver /ai.google/proxy
 nameserver /aiosearch.com/proxy
 nameserver /aiph.net/proxy
 nameserver /airasia.com/proxy
@@ -1483,6 +1483,7 @@ nameserver /dnssec.net/proxy
 nameserver /dnvod.tv/proxy
 nameserver /doc.new/proxy
 nameserver /docker.com/proxy
+nameserver /docker.io/proxy
 nameserver /docs.new/proxy
 nameserver /doctorvoice.org/proxy
 nameserver /documentingreality.com/proxy
@@ -2216,6 +2217,7 @@ nameserver /gmhz.org/proxy
 nameserver /gmll.org/proxy
 nameserver /gmodules.com/proxy
 nameserver /gmozomg.izihost.org/proxy
+nameserver /gmp4.com/proxy
 nameserver /gnci.org.hk/proxy
 nameserver /gnews.org/proxy
 nameserver /go-pki.com/proxy
@@ -2856,6 +2858,7 @@ nameserver /hypothes.is/proxy
 nameserver /i-cable.com/proxy
 nameserver /i-part.com.tw/proxy
 nameserver /i-scmp.com/proxy
+nameserver /i.111666.best/proxy
 nameserver /i.lithium.com/proxy
 nameserver /i1.hk/proxy
 nameserver /i2p2.de/proxy
@@ -4071,6 +4074,7 @@ nameserver /omny.fm/proxy
 nameserver /on.cc/proxy
 nameserver /on2.com/proxy
 nameserver /onapp.com/proxy
+nameserver /one.one.one.one/proxy
 nameserver /onedrive.com/proxy
 nameserver /onedrive.live.com/proxy
 nameserver /onedumb.com/proxy
@@ -4280,6 +4284,7 @@ nameserver /pkqjiasu.com/proxy
 nameserver /pkuanvil.com/proxy
 nameserver /placemix.com/proxy
 nameserver /play-asia.com/proxy
+nameserver /play.google/proxy
 nameserver /playboy.com/proxy
 nameserver /playboyplus.com/proxy
 nameserver /player.fm/proxy
@@ -4416,6 +4421,7 @@ nameserver /pullfolio.com/proxy
 nameserver /punyu.com/proxy
 nameserver /pure18.com/proxy
 nameserver /pureconcepts.net/proxy
+nameserver /puredns.org/proxy
 nameserver /pureinsight.org/proxy
 nameserver /purepdf.com/proxy
 nameserver /purevpn.com/proxy
@@ -4449,6 +4455,7 @@ nameserver /qienkuen.org/proxy
 nameserver /qiwen.lu/proxy
 nameserver /qixianglu.cn/proxy
 nameserver /qkshare.com/proxy
+nameserver /qmp4.com/proxy
 nameserver /qoos.com/proxy
 nameserver /qpoe.com/proxy
 nameserver /qq.co.za/proxy
@@ -4608,10 +4615,12 @@ nameserver /rthk.org.hk/proxy
 nameserver /rthklive2-lh.akamaihd.net/proxy
 nameserver /rti.org.tw/proxy
 nameserver /rti.tw/proxy
+nameserver /rtm.tnt-ea.com/proxy
 nameserver /rtycminnesota.org/proxy
 nameserver /ruanyifeng.com/proxy
 nameserver /rukor.org/proxy
 nameserver /rule34.xxx/proxy
+nameserver /rule34video.com/proxy
 nameserver /rumble.com/proxy
 nameserver /runbtx.com/proxy
 nameserver /rushbee.com/proxy
@@ -6402,8 +6411,13 @@ nameserver /yyii.org/proxy
 nameserver /yyjlymb.xyz/proxy
 nameserver /yysub.net/proxy
 nameserver /yzzk.com/proxy
+nameserver /z-lib.fm/proxy
+nameserver /z-lib.fo/proxy
+nameserver /z-lib.gd/proxy
+nameserver /z-lib.gl/proxy
 nameserver /z-lib.io/proxy
 nameserver /z-lib.org/proxy
+nameserver /z-library.sk/proxy
 nameserver /zacebook.com/proxy
 nameserver /zalmos.com/proxy
 nameserver /zamimg.com/proxy
