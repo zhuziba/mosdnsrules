@@ -210,6 +210,7 @@ nameserver /agro.hk/proxy
 nameserver /ai-kan.net/proxy
 nameserver /ai-wen.net/proxy
 nameserver /ai.binwang.me/proxy
+nameserver /ai.google/proxy
 nameserver /aiosearch.com/proxy
 nameserver /aiph.net/proxy
 nameserver /airasia.com/proxy
@@ -3918,6 +3919,10 @@ nameserver /nic.gov/proxy
 nameserver /nicovideo.jp/proxy
 nameserver /nighost.org/proxy
 nameserver /nightswatch.top/proxy
+nameserver /nikke-en.com/proxy
+nameserver /nikke-jp.com/proxy
+nameserver /nikke-kr.com/proxy
+nameserver /nikke.hotcool.tw/proxy
 nameserver /nikkei.com/proxy
 nameserver /ninecommentaries.com/proxy
 nameserver /ninjacloak.com/proxy
@@ -3951,6 +3956,7 @@ nameserver /nordstromimage.com/proxy
 nameserver /nordstromrack.com/proxy
 nameserver /nordvpn.com/proxy
 nameserver /nos.nl/proxy
+nameserver /notebooklm.google/proxy
 nameserver /notepad-plus-plus.org/proxy
 nameserver /nottinghampost.com/proxy
 nameserver /novelasia.com/proxy
@@ -5397,6 +5403,7 @@ nameserver /ticket.com.tw/proxy
 nameserver /tigervpn.com/proxy
 nameserver /tiktok.com/proxy
 nameserver /tiktokcdn-us.com/proxy
+nameserver /tiktokcdn.com/proxy
 nameserver /tiktokv.com/proxy
 nameserver /tiktokv.us/proxy
 nameserver /tiltbrush.com/proxy
