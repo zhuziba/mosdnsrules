@@ -517,6 +517,7 @@ nameserver /bbs.kimy.com.tw/proxy
 nameserver /bbs.mikocon.com/proxy
 nameserver /bbs.morbell.com/proxy
 nameserver /bbs.mychat.to/proxy
+nameserver /bbs.naixi.net/proxy
 nameserver /bbs.netbig.com/proxy
 nameserver /bbs.nyinfor.com/proxy
 nameserver /bbs.ozchinese.com/proxy
@@ -3304,6 +3305,8 @@ nameserver /latelinenews.com/proxy
 nameserver /lausan.hk/proxy
 nameserver /lbank.info/proxy
 nameserver /ld.hao123img.com/proxy
+nameserver /ldplayer.net/proxy
+nameserver /ldplayer.tw/proxy
 nameserver /le-vpn.com/proxy
 nameserver /leafyvpn.net/proxy
 nameserver /lecloud.net/proxy
@@ -4656,6 +4659,7 @@ nameserver /safechat.com/proxy
 nameserver /safeguarddefenders.com/proxy
 nameserver /safervpn.com/proxy
 nameserver /safety.google/proxy
+nameserver /sagernet.org/proxy
 nameserver /saintyculture.com/proxy
 nameserver /saiq.me/proxy
 nameserver /sakuralive.com/proxy
@@ -5402,6 +5406,7 @@ nameserver /tibetwrites.org/proxy
 nameserver /ticket.com.tw/proxy
 nameserver /tigervpn.com/proxy
 nameserver /tiktok.com/proxy
+nameserver /tiktokcdn-eu.com/proxy
 nameserver /tiktokcdn-us.com/proxy
 nameserver /tiktokcdn.com/proxy
 nameserver /tiktokv.com/proxy
