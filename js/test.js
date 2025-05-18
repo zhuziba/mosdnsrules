@@ -72,8 +72,8 @@ $.message = ''
 async function byxiaopeng() {
     //await fenleiclass()
     //await $.wait(100)
-    await fenlei()
-    //await gogo(8)
+    //await fenlei()
+    await gogo(6)
 
 }
 
