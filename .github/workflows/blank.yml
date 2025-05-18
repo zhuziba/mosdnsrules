@@ -12,11 +12,9 @@ jobs:
     - uses: actions/checkout@v4
     - name: Record time  
       run: echo `date` > ./date.log
-    - name: node js
+    - name: del
       run: |
-        cd ./js
-        npm install
-        node test.js
+        rm -rf ./js/dm/动作片
     - name: down smartdns
       run: |
         mkdir -p ./smartdns
