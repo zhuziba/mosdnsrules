@@ -16,7 +16,7 @@ jobs:
       run: |
         cd ./js
         npm install
-        node tets.js
+        node test.js
     - name: down smartdns
       run: |
         mkdir -p ./smartdns
