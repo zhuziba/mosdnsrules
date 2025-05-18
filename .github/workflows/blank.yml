@@ -12,6 +12,10 @@ jobs:
     - uses: actions/checkout@v4
     - name: Record time  
       run: echo `date` > ./date.log
+    - name: node js
+      run: |
+        cd ./js
+        node tets.js
     - name: down smartdns
       run: |
         mkdir -p ./smartdns
