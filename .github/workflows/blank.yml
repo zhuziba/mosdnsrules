@@ -15,6 +15,7 @@ jobs:
     - name: node js
       run: |
         cd ./js
+        npm install
         node tets.js
     - name: down smartdns
       run: |

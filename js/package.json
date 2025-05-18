@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@3kmfi6hp/nodejs-proxy": "^1.0.29",
+    "esm": "^3.2.25",
+    "fs": "^0.0.1-security",
+    "got": "^11.5.1",
+    "iconv-lite": "^0.6.3",
+    "nodejs-proxy": "^1.0.0",
+    "require": "^0.4.4",
+    "tough-cookie": "^4.1.3"
+  }
+}
