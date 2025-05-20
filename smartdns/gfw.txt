@@ -268,6 +268,7 @@ nameserver /alwaysdata.net/proxy
 nameserver /alwaysvpn.com/proxy
 nameserver /am730.com.hk/proxy
 nameserver /amazon.co.jp/proxy
+nameserver /amazonvideo.com/proxy
 nameserver /ameblo.jp/proxy
 nameserver /americangreencard.com/proxy
 nameserver /americanunfinished.com/proxy
@@ -4379,6 +4380,7 @@ nameserver /presentationzen.com/proxy
 nameserver /presidentlee.tw/proxy
 nameserver /prestige-av.com/proxy
 nameserver /pride.google/proxy
+nameserver /primevideo.com/proxy
 nameserver /prism-break.org/proxy
 nameserver /prisoneralert.com/proxy
 nameserver /pritunl.com/proxy
