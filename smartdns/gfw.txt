@@ -3948,7 +3948,6 @@ nameserver /no-ip.org/proxy
 nameserver /nobel.se/proxy
 nameserver /nobelprize.org/proxy
 nameserver /nobodycanstop.us/proxy
-nameserver /nodeloc.com/proxy
 nameserver /nodeseek.com/proxy
 nameserver /nofile.io/proxy
 nameserver /nokogiri.org/proxy
@@ -4551,6 +4550,7 @@ nameserver /redchinacn.net/proxy
 nameserver /redchinacn.org/proxy
 nameserver /redd.it/proxy
 nameserver /reddit.com/proxy
+nameserver /reddithelp.com/proxy
 nameserver /redditlist.com/proxy
 nameserver /redditmedia.com/proxy
 nameserver /redditspace.com/proxy
@@ -6207,6 +6207,7 @@ nameserver /www.monlamit.org/proxy
 nameserver /www.moztw.org/proxy
 nameserver /www.msn.com/proxy
 nameserver /www.nbc.com/proxy
+nameserver /www.nodeloc.com/proxy
 nameserver /www.orchidbbs.com/proxy
 nameserver /www.owind.com/proxy
 nameserver /www.oxid.it/proxy
