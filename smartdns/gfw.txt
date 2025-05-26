@@ -2140,6 +2140,7 @@ nameserver /geekerhome.com/proxy
 nameserver /geekheart.info/proxy
 nameserver /gekikame.com/proxy
 nameserver /gelbooru.com/proxy
+nameserver /gemini.google/proxy
 nameserver /generated.photos/proxy
 nameserver /genius.com/proxy
 nameserver /geocities.co.jp/proxy
