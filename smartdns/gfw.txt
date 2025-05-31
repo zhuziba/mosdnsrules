@@ -624,6 +624,7 @@ nameserver /bjzc.org/proxy
 nameserver /bl-doujinsouko.com/proxy
 nameserver /blacked.com/proxy
 nameserver /blacklogic.com/proxy
+nameserver /blackmagicdesign.com/proxy
 nameserver /blackvpn.com/proxy
 nameserver /blewpass.com/proxy
 nameserver /blinkx.com/proxy
