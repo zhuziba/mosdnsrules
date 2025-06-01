@@ -1288,6 +1288,7 @@ nameserver /csw.org.uk/proxy
 nameserver /ct.org.tw/proxy
 nameserver /ctao.org/proxy
 nameserver /ctfriend.net/proxy
+nameserver /ctinews.com/proxy
 nameserver /ctitv.com.tw/proxy
 nameserver /ctowc.org/proxy
 nameserver /cts.com.tw/proxy
