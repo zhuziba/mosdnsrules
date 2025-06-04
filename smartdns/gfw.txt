@@ -956,6 +956,7 @@ nameserver /cdig.info/proxy
 nameserver /cdjp.org/proxy
 nameserver /cdn-images.mailchimp.com/proxy
 nameserver /cdn-telegram.org/proxy
+nameserver /cdn.arstechnica.net/proxy
 nameserver /cdn.assets.lfpcontent.com/proxy
 nameserver /cdn.helixstudios.net/proxy
 nameserver /cdn.jwplayer.com/proxy
@@ -1116,6 +1117,7 @@ nameserver /chubun.com/proxy
 nameserver /churchinhongkong.org/proxy
 nameserver /chushigangdrug.ch/proxy
 nameserver /ci-en.jp/proxy
+nameserver /cici.com/proxy
 nameserver /ciciai.com/proxy
 nameserver /cienen.com/proxy
 nameserver /cineastentreff.de/proxy
