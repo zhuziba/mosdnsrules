@@ -1210,6 +1210,7 @@ nameserver /code1984.com/proxy
 nameserver /codeshare.io/proxy
 nameserver /codeskulptor.org/proxy
 nameserver /cofacts.tw/proxy
+nameserver /coffeemanga.to/proxy
 nameserver /coin2co.in/proxy
 nameserver /coinbase.com/proxy
 nameserver /coinbene.com/proxy
