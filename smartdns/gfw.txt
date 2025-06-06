@@ -129,6 +129,7 @@ nameserver /8news.com.tw/proxy
 nameserver /8z1.net/proxy
 nameserver /9001700.com/proxy
 nameserver /908taiwan.org/proxy
+nameserver /91dasai.com/proxy
 nameserver /91porn.com/proxy
 nameserver /91porny.com/proxy
 nameserver /91vps.club/proxy
