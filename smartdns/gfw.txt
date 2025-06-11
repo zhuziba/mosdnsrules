@@ -3357,6 +3357,7 @@ nameserver /line.me/proxy
 nameserver /line.naver.jp/proxy
 nameserver /linear-abematv.akamaized.net/proxy
 nameserver /linglingfa.com/proxy
+nameserver /lingualeo.com/proxy
 nameserver /lingvodics.com/proxy
 nameserver /link-o-rama.com/proxy
 nameserver /linkedin.com/proxy
