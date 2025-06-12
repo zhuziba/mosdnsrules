@@ -1261,6 +1261,7 @@ nameserver /counter.social/proxy
 nameserver /coursehero.com/proxy
 nameserver /coze.com/proxy
 nameserver /cpj.org/proxy
+nameserver /cpu-monkey.com/proxy
 nameserver /cq99.us/proxy
 nameserver /crackle.com/proxy
 nameserver /crazypool.org/proxy
@@ -2847,7 +2848,6 @@ nameserver /hutong9.net/proxy
 nameserver /huyandex.com/proxy
 nameserver /hwadzan.tw/proxy
 nameserver /hwayue.org.tw/proxy
-nameserver /hwinfo.com/proxy
 nameserver /hxwk.org/proxy
 nameserver /hxwq.org/proxy
 nameserver /hybrid-analysis.com/proxy
