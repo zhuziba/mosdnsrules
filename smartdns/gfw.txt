@@ -1964,6 +1964,7 @@ nameserver /github.io/proxy
 nameserver /githubassets.com/proxy
 nameserver /githubcopilot.com/proxy
 nameserver /githubusercontent.com/proxy
+nameserver /gitlab.net/proxy
 nameserver /gizlen.net/proxy
 nameserver /gjczz.com/proxy
 nameserver /glarity.app/proxy
@@ -2391,6 +2392,7 @@ nameserver /himalayan-foundation.org/proxy
 nameserver /himalayanglacier.com/proxy
 nameserver /himemix.com/proxy
 nameserver /hindustantimes.com/proxy
+nameserver /hinet.net/proxy
 nameserver /hitbtc.com/proxy
 nameserver /hitomi.la/proxy
 nameserver /hiveon.net/proxy
