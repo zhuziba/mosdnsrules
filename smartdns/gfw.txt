@@ -3679,6 +3679,7 @@ nameserver /onmypc.net/proxy
 nameserver /onmypc.org/proxy
 nameserver /onthehunt.com/proxy
 nameserver /ontrac.com/proxy
+nameserver /oojj.de/proxy
 nameserver /open.com.hk/proxy
 nameserver /open.firstory.me/proxy
 nameserver /openai.com/proxy
