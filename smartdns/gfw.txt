@@ -1043,7 +1043,6 @@ nameserver /clipfish.de/proxy
 nameserver /cloud.dify.ai/proxy
 nameserver /cloud.mail.ru/proxy
 nameserver /cloudflare-ipfs.com/proxy
-nameserver /cloudfront.net/proxy
 nameserver /cloudfunctions.net/proxy
 nameserver /club1069.com/proxy
 nameserver /clubhouseapi.com/proxy
@@ -1402,6 +1401,7 @@ nameserver /dw-world.com/proxy
 nameserver /dw-world.de/proxy
 nameserver /dw.com/proxy
 nameserver /dw.de/proxy
+nameserver /dweb.link/proxy
 nameserver /dwnews.com/proxy
 nameserver /dwnews.net/proxy
 nameserver /dynamic-dns.net/proxy
@@ -2683,6 +2683,7 @@ nameserver /inxian.com/proxy
 nameserver /iownyour.org/proxy
 nameserver /ipdefenseforum.com/proxy
 nameserver /ipfire.org/proxy
+nameserver /ipfs.4everland.io/proxy
 nameserver /ipfs.io/proxy
 nameserver /iphone4hongkong.com/proxy
 nameserver /iphonetaiwan.org/proxy
@@ -3509,6 +3510,7 @@ nameserver /nflximg.com/proxy
 nameserver /nflximg.net/proxy
 nameserver /nflxso.net/proxy
 nameserver /nflxvideo.net/proxy
+nameserver /nftstorage.link/proxy
 nameserver /nga.mil/proxy
 nameserver /ngensis.com/proxy
 nameserver /nhentai.net/proxy
@@ -4540,6 +4542,7 @@ nameserver /store.steampowered.com/proxy
 nameserver /storj.io/proxy
 nameserver /storm.mg/proxy
 nameserver /stormmediagroup.com/proxy
+nameserver /storry.tv/proxy
 nameserver /stoweboyd.com/proxy
 nameserver /straitstimes.com/proxy
 nameserver /stranabg.com/proxy
@@ -5360,6 +5363,7 @@ nameserver /vuku.cc/proxy
 nameserver /vultryhw.com/proxy
 nameserver /w-pool.com/proxy
 nameserver /w.idaiwan.com/proxy
+nameserver /w3s.link/proxy
 nameserver /waffle1999.com/proxy
 nameserver /wahas.com/proxy
 nameserver /waikeung.org/proxy
