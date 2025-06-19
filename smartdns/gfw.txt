@@ -1738,6 +1738,7 @@ nameserver /focustaiwan.tw/proxy
 nameserver /focusvpn.com/proxy
 nameserver /fofg.org/proxy
 nameserver /fooooo.com/proxy
+nameserver /forbes.com/proxy
 nameserver /foreignaffairs.com/proxy
 nameserver /foreignpolicy.com/proxy
 nameserver /form.new/proxy
