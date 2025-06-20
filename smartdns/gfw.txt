@@ -255,6 +255,7 @@ nameserver /amnesty.tw/proxy
 nameserver /amnestyusa.org/proxy
 nameserver /ampproject.org/proxy
 nameserver /amtb-taipei.org/proxy
+nameserver /amuletmc.com/proxy
 nameserver /anchor.fm/proxy
 nameserver /anchorfree.com/proxy
 nameserver /ancsconf.org/proxy
