@@ -352,6 +352,7 @@ nameserver /arte.tv/proxy
 nameserver /artofpeacefoundation.org/proxy
 nameserver /artstation.com/proxy
 nameserver /artsy.net/proxy
+nameserver /arvanstorage.ir/proxy
 nameserver /asacp.org/proxy
 nameserver /asdfg.jp/proxy
 nameserver /asg.to/proxy
@@ -2261,6 +2262,7 @@ nameserver /gotgeeks.com/proxy
 nameserver /gotquestions.org/proxy
 nameserver /gotrusted.com/proxy
 nameserver /gotw.ca/proxy
+nameserver /gov.ir/proxy
 nameserver /gov.taipei/proxy
 nameserver /gov.tw/proxy
 nameserver /gr8domain.biz/proxy
@@ -2700,7 +2702,9 @@ nameserver /ipredator.se/proxy
 nameserver /iptv.com.tw/proxy
 nameserver /iptvbin.com/proxy
 nameserver /ipvanish.com/proxy
+nameserver /irangov.ir/proxy
 nameserver /iredmail.org/proxy
+nameserver /irna.ir/proxy
 nameserver /ironpython.net/proxy
 nameserver /ironsocket.com/proxy
 nameserver /is-a-hunter.com/proxy
@@ -3935,6 +3939,7 @@ nameserver /prcleader.org/proxy
 nameserver /premproxy.com/proxy
 nameserver /presentation.new/proxy
 nameserver /presentationzen.com/proxy
+nameserver /president.ir/proxy
 nameserver /presidentlee.tw/proxy
 nameserver /prestige-av.com/proxy
 nameserver /primevideo.com/proxy
