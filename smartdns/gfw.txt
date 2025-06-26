@@ -921,7 +921,6 @@ nameserver /chenpokongvip.com/proxy
 nameserver /chenshan20042005.wordpress.com/proxy
 nameserver /cherrysave.com/proxy
 nameserver /chhongbi.org/proxy
-nameserver /chicagoncmtv.com/proxy
 nameserver /china-mmm.jp.net/proxy
 nameserver /china-mmm.net/proxy
 nameserver /china-review.com.ua/proxy
@@ -1787,8 +1786,6 @@ nameserver /freedomhouse.org/proxy
 nameserver /freedominfonetweb.wordpress.com/proxy
 nameserver /freedomsherald.org/proxy
 nameserver /freeforums.org/proxy
-nameserver /freefq.com/proxy
-nameserver /freefuckvids.com/proxy
 nameserver /freegao.com/proxy
 nameserver /freehongkong.org/proxy
 nameserver /freeilhamtohti.org/proxy
@@ -4050,6 +4047,7 @@ nameserver /radiohilight.net/proxy
 nameserver /radioline.co/proxy
 nameserver /radiovaticana.org/proxy
 nameserver /radiovncr.com/proxy
+nameserver /radmin-vpn.com/proxy
 nameserver /rael.org/proxy
 nameserver /raggedbanner.com/proxy
 nameserver /raidcall.com.tw/proxy
