@@ -2634,6 +2634,7 @@ nameserver /imb.org/proxy
 nameserver /imdb.com/proxy
 nameserver /img.dlsite.jp/proxy
 nameserver /img.ly/proxy
+nameserver /img.picgo.net/proxy
 nameserver /imgasd.com/proxy
 nameserver /imgchili.net/proxy
 nameserver /imgmega.com/proxy
