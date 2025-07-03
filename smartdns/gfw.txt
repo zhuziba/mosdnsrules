@@ -1347,6 +1347,7 @@ nameserver /dongtaiwang.com/proxy
 nameserver /dongtaiwang.net/proxy
 nameserver /dongyangjing.com/proxy
 nameserver /dontfilter.us/proxy
+nameserver /doom9.org/proxy
 nameserver /doosho.com/proxy
 nameserver /doourbest.org/proxy
 nameserver /dorjeshugden.com/proxy
