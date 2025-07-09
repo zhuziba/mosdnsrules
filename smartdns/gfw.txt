@@ -1429,6 +1429,7 @@ nameserver /e-hentaidb.com/proxy
 nameserver /e-info.org.tw/proxy
 nameserver /e-zone.com.hk/proxy
 nameserver /e123.hk/proxy
+nameserver /e621.net/proxy
 nameserver /earlytibet.com/proxy
 nameserver /earthcam.com/proxy
 nameserver /earthvpn.com/proxy
