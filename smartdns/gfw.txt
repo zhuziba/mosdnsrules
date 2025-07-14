@@ -5602,6 +5602,7 @@ nameserver /www.taiwanonline.cc/proxy
 nameserver /www.thechinastory.org/proxy
 nameserver /www.wan-press.org/proxy
 nameserver /www.websnapr.com/proxy
+nameserver /www.xicons.org/proxy
 nameserver /www.zensur.freerk.com/proxy
 nameserver /www1.american.edu/proxy
 nameserver /www1.biz/proxy
