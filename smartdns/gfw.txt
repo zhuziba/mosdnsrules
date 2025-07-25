@@ -5707,6 +5707,7 @@ nameserver /yam.com/proxy
 nameserver /yam.org.tw/proxy
 nameserver /yande.re/proxy
 nameserver /yanghengjun.com/proxy
+nameserver /yangzhi.org/proxy
 nameserver /yasni.co.uk/proxy
 nameserver /yasukuni.or.jp/proxy
 nameserver /yayabay.com/proxy
