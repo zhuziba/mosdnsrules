@@ -3086,6 +3086,7 @@ nameserver /lsmwebcast.com/proxy
 nameserver /lsxszzg.com/proxy
 nameserver /ltn.com.tw/proxy
 nameserver /luckydesigner.space/proxy
+nameserver /ludepress.com/proxy
 nameserver /luke54.com/proxy
 nameserver /luke54.org/proxy
 nameserver /lupm.org/proxy
