@@ -5377,6 +5377,7 @@ nameserver /waffle1999.com/proxy
 nameserver /wahas.com/proxy
 nameserver /waikeung.org/proxy
 nameserver /wainao.me/proxy
+nameserver /walletconnect.com/proxy
 nameserver /wallmama.com/proxy
 nameserver /wallpapercasa.com/proxy
 nameserver /wallproxy.com/proxy
