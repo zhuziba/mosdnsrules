@@ -5611,6 +5611,8 @@ nameserver /www1.biz/proxy
 nameserver /www2.ohchr.org/proxy
 nameserver /www2.rocketbbs.com/proxy
 nameserver /wwwhost.biz/proxy
+nameserver /wxw.cat/proxy
+nameserver /wxw.moe/proxy
 nameserver /wzyboy.im/proxy
 nameserver /x-art.com/proxy
 nameserver /x-berry.com/proxy
