@@ -548,6 +548,7 @@ nameserver /bitchute.com/proxy
 nameserver /bitcointalk.org/proxy
 nameserver /bitcoinworld.com/proxy
 nameserver /bitfinex.com/proxy
+nameserver /bitget.com/proxy
 nameserver /bithumb.com/proxy
 nameserver /bitmex.com/proxy
 nameserver /bitshare.com/proxy
@@ -1043,6 +1044,7 @@ nameserver /clipconverter.cc/proxy
 nameserver /clipfish.de/proxy
 nameserver /cloud.dify.ai/proxy
 nameserver /cloud.mail.ru/proxy
+nameserver /cloudflare-dns.com/proxy
 nameserver /cloudflare-ipfs.com/proxy
 nameserver /cloudfunctions.net/proxy
 nameserver /club1069.com/proxy
@@ -5170,6 +5172,7 @@ nameserver /unseen.is/proxy
 nameserver /unstable.icu/proxy
 nameserver /unwire.hk/proxy
 nameserver /uocn.org/proxy
+nameserver /upbit.com/proxy
 nameserver /updates.tdesktop.com/proxy
 nameserver /upghsbc.com/proxy
 nameserver /upholdjustice.org/proxy
@@ -5591,7 +5594,6 @@ nameserver /www.monlamit.org/proxy
 nameserver /www.moztw.org/proxy
 nameserver /www.msn.com/proxy
 nameserver /www.nbc.com/proxy
-nameserver /www.nodeloc.com/proxy
 nameserver /www.owind.com/proxy
 nameserver /www.oxid.it/proxy
 nameserver /www.powerpointninja.com/proxy
