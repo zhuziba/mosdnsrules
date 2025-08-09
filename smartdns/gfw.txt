@@ -3161,6 +3161,7 @@ nameserver /matters.news/proxy
 nameserver /matters.town/proxy
 nameserver /matthewdgreen.wordpress.com/proxy
 nameserver /mattwilcox.net/proxy
+nameserver /maven.neoforged.net/proxy
 nameserver /maxing.jp/proxy
 nameserver /mayimayi.com/proxy
 nameserver /mcadforums.com/proxy
