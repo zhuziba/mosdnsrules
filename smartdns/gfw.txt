@@ -537,6 +537,7 @@ nameserver /bild.de/proxy
 nameserver /biliworld.com/proxy
 nameserver /billypan.com/proxy
 nameserver /binance.com/proxy
+nameserver /binance.org/proxy
 nameserver /binancezh.cc/proxy
 nameserver /binux.me/proxy
 nameserver /bird.so/proxy
@@ -2664,6 +2665,7 @@ nameserver /indiatoday.in/proxy
 nameserver /indiemerch.com/proxy
 nameserver /inews-api.tvb.com/proxy
 nameserver /info-graf.fr/proxy
+nameserver /infura.io/proxy
 nameserver /inherit.live/proxy
 nameserver /initiativesforchina.org/proxy
 nameserver /inkbunny.net/proxy
@@ -3088,6 +3090,7 @@ nameserver /lsmwebcast.com/proxy
 nameserver /lsxszzg.com/proxy
 nameserver /ltn.com.tw/proxy
 nameserver /luckydesigner.space/proxy
+nameserver /luckymobile.ca/proxy
 nameserver /ludepress.com/proxy
 nameserver /luke54.com/proxy
 nameserver /luke54.org/proxy
@@ -3210,6 +3213,7 @@ nameserver /mesotw.com/proxy
 nameserver /messenger.com/proxy
 nameserver /meta.com/proxy
 nameserver /metafilter.com/proxy
+nameserver /metamask.io/proxy
 nameserver /metart.com/proxy
 nameserver /metarthunter.com/proxy
 nameserver /meteorshowersonline.com/proxy
