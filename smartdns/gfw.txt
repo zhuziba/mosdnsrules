@@ -511,6 +511,7 @@ nameserver /bestvpnusa.com/proxy
 nameserver /bet365.com/proxy
 nameserver /betaclouds.net/proxy
 nameserver /betfair.com/proxy
+nameserver /betterhash.net/proxy
 nameserver /betternet.co/proxy
 nameserver /bettervpn.com/proxy
 nameserver /bettween.com/proxy
@@ -2369,6 +2370,7 @@ nameserver /hentaivideoworld.com/proxy
 nameserver /heqinglian.net/proxy
 nameserver /heritage.org/proxy
 nameserver /herokuapp.com/proxy
+nameserver /herominers.com/proxy
 nameserver /hexieshe.com/proxy
 nameserver /hexieshe.xyz/proxy
 nameserver /hexxeh.net/proxy
@@ -2739,6 +2741,7 @@ nameserver /isupportuyghurs.org/proxy
 nameserver /itaiwan.gov.tw/proxy
 nameserver /italiatibet.org/proxy
 nameserver /itasoftware.com/proxy
+nameserver /itch.io/proxy
 nameserver /itemdb.com/proxy
 nameserver /itemfix.com/proxy
 nameserver /ithelp.ithome.com.tw/proxy
