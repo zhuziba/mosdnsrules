@@ -4611,6 +4611,7 @@ nameserver /suroot.com/proxy
 nameserver /surrenderat20.net/proxy
 nameserver /svsfx.com/proxy
 nameserver /swagbucks.com/proxy
+nameserver /swapspace.co/proxy
 nameserver /swissinfo.ch/proxy
 nameserver /swissvpn.net/proxy
 nameserver /switch1.jp/proxy
