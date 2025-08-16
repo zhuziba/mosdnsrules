@@ -3763,6 +3763,7 @@ nameserver /palacemoon.com/proxy
 nameserver /paljorpublications.com/proxy
 nameserver /paltalk.com/proxy
 nameserver /panamapapers.sueddeutsche.de/proxy
+nameserver /pancakeswap.finance/proxy
 nameserver /pandafan.pub/proxy
 nameserver /pandapow.co/proxy
 nameserver /pandapow.net/proxy
@@ -3829,6 +3830,7 @@ nameserver /periscope.tv/proxy
 nameserver /perplexity.ai/proxy
 nameserver /persecutionblog.com/proxy
 nameserver /persiankitty.com/proxy
+nameserver /pewresearch.org/proxy
 nameserver /phapluan.org/proxy
 nameserver /phayul.com/proxy
 nameserver /philborges.com/proxy
@@ -3958,6 +3960,7 @@ nameserver /prism-break.org/proxy
 nameserver /prisoneralert.com/proxy
 nameserver /pritunl.com/proxy
 nameserver /privacybox.de/proxy
+nameserver /privacyguides.org/proxy
 nameserver /private.com/proxy
 nameserver /privateinternetaccess.com/proxy
 nameserver /privatepaste.com/proxy
