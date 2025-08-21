@@ -2748,6 +2748,7 @@ nameserver /itch.io/proxy
 nameserver /itemdb.com/proxy
 nameserver /itemfix.com/proxy
 nameserver /ithelp.ithome.com.tw/proxy
+nameserver /itiger.com/proxy
 nameserver /itsaol.com/proxy
 nameserver /itshidden.com/proxy
 nameserver /itsky.it/proxy
