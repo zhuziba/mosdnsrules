@@ -1131,6 +1131,7 @@ nameserver /costco.com/proxy
 nameserver /cotweet.com/proxy
 nameserver /counter.social/proxy
 nameserver /coursehero.com/proxy
+nameserver /covenantswatch.org.tw/proxy
 nameserver /coze.com/proxy
 nameserver /cpj.org/proxy
 nameserver /cpu-monkey.com/proxy
