@@ -1852,6 +1852,8 @@ nameserver /ftvnews.com.tw/proxy
 nameserver /ftx.com/proxy
 nameserver /fucd.com/proxy
 nameserver /fuchsia.dev/proxy
+nameserver /fuckccp.com/proxy
+nameserver /fuckccp.xyz/proxy
 nameserver /fuckgfw.org/proxy
 nameserver /fulione.com/proxy
 nameserver /fullerconsideration.com/proxy
