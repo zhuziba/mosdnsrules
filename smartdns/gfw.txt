@@ -1680,6 +1680,7 @@ nameserver /fdc64.org/proxy
 nameserver /fdc89.jp/proxy
 nameserver /feedburner.com/proxy
 nameserver /feeder.co/proxy
+nameserver /feedly.com/proxy
 nameserver /feeds.fileforum.com/proxy
 nameserver /feedx.net/proxy
 nameserver /feelssh.com/proxy
@@ -3310,6 +3311,7 @@ nameserver /mofos.com/proxy
 nameserver /mog.com/proxy
 nameserver /mohu.club/proxy
 nameserver /mohu.rocks/proxy
+nameserver /moj.gov.tw/proxy
 nameserver /mojim.com/proxy
 nameserver /mol.gov.tw/proxy
 nameserver /molihua.org/proxy
