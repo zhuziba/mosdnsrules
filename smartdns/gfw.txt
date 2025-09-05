@@ -735,6 +735,8 @@ nameserver /brutaltgp.com/proxy
 nameserver /bsky.app/proxy
 nameserver /bsky.network/proxy
 nameserver /bsky.social/proxy
+nameserver /bt4g.org/proxy
+nameserver /bt4gprx.com/proxy
 nameserver /bt95.com/proxy
 nameserver /btaia.com/proxy
 nameserver /btbit.net/proxy
@@ -4681,6 +4683,7 @@ nameserver /talkcc.com/proxy
 nameserver /talkonly.net/proxy
 nameserver /tanc.org/proxy
 nameserver /tangren.us/proxy
+nameserver /tanks.gg/proxy
 nameserver /taoism.net/proxy
 nameserver /tapanwap.com/proxy
 nameserver /tapatalk.com/proxy
