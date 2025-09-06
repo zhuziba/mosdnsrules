@@ -2708,6 +2708,7 @@ nameserver /iphone4hongkong.com/proxy
 nameserver /iphonetaiwan.org/proxy
 nameserver /iphonix.fr/proxy
 nameserver /ipicture.ru/proxy
+nameserver /ipify.org/proxy
 nameserver /ipjetable.net/proxy
 nameserver /ipobar.com/proxy
 nameserver /ipoock.com/proxy
