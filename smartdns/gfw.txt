@@ -3185,6 +3185,7 @@ nameserver /mcadforums.com/proxy
 nameserver /mcaf.ee/proxy
 nameserver /mcfog.com/proxy
 nameserver /mcreasite.com/proxy
+nameserver /mcusercontent.com/proxy
 nameserver /md-t.org/proxy
 nameserver /me.me/proxy
 nameserver /me.ns.ci/proxy
@@ -4379,6 +4380,7 @@ nameserver /simplecd.org/proxy
 nameserver /simpleproductivityblog.com/proxy
 nameserver /simpleswap.io/proxy
 nameserver /simplex.chat/proxy
+nameserver /sina.com.hk/proxy
 nameserver /sinchew.com.my/proxy
 nameserver /singaporepools.com.sg/proxy
 nameserver /singfortibet.com/proxy
@@ -4679,6 +4681,7 @@ nameserver /taiwantt.org.tw/proxy
 nameserver /taiwanus.net/proxy
 nameserver /taiwanyes.ning.com/proxy
 nameserver /talk853.com/proxy
+nameserver /talkatone.com/proxy
 nameserver /talkboxapp.com/proxy
 nameserver /talkcc.com/proxy
 nameserver /talkonly.net/proxy
