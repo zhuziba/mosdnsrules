@@ -1904,6 +1904,7 @@ nameserver /gaopi.net/proxy
 nameserver /gardennetworks.com/proxy
 nameserver /gardennetworks.org/proxy
 nameserver /gartlive.com/proxy
+nameserver /garudalinux.org/proxy
 nameserver /gate.io/proxy
 nameserver /gatecoin.com/proxy
 nameserver /gather.com/proxy
@@ -1979,6 +1980,7 @@ nameserver /github.io/proxy
 nameserver /githubassets.com/proxy
 nameserver /githubcopilot.com/proxy
 nameserver /githubusercontent.com/proxy
+nameserver /gitlab.com/proxy
 nameserver /gitlab.net/proxy
 nameserver /gizlen.net/proxy
 nameserver /gjczz.com/proxy
@@ -3560,6 +3562,7 @@ nameserver /ninecommentaries.com/proxy
 nameserver /ninjacloak.com/proxy
 nameserver /ninjaproxy.ninja/proxy
 nameserver /nintendium.com/proxy
+nameserver /nirsoft.net/proxy
 nameserver /nitter.cc/proxy
 nameserver /nitter.net/proxy
 nameserver /niu.moe/proxy
@@ -5395,6 +5398,7 @@ nameserver /vpnvip.com/proxy
 nameserver /vpnworldwide.com/proxy
 nameserver /vporn.com/proxy
 nameserver /vpser.net/proxy
+nameserver /vpsxb.net/proxy
 nameserver /vraiesagesse.net/proxy
 nameserver /vrchat.com/proxy
 nameserver /vrmtr.com/proxy
