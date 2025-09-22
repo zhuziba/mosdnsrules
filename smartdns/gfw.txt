@@ -5160,7 +5160,6 @@ nameserver /ubddns.org/proxy
 nameserver /uberproxy.net/proxy
 nameserver /uc-japan.org/proxy
 nameserver /uchicago.edu/proxy
-nameserver /uderzo.it/proxy
 nameserver /udn.com/proxy
 nameserver /udn.com.tw/proxy
 nameserver /udnbkk.com/proxy
