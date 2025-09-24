@@ -1168,6 +1168,7 @@ nameserver /csuchen.de/proxy
 nameserver /csw.org.uk/proxy
 nameserver /ct.org.tw/proxy
 nameserver /ctao.org/proxy
+nameserver /ctinets.com/proxy
 nameserver /ctinews.com/proxy
 nameserver /ctitv.com.tw/proxy
 nameserver /ctowc.org/proxy
@@ -2698,6 +2699,7 @@ nameserver /internet.org/proxy
 nameserver /internetdefenseleague.org/proxy
 nameserver /internetfreedom.org/proxy
 nameserver /internetpopculture.com/proxy
+nameserver /interseclab.org/proxy
 nameserver /inthenameofconfuciusmovie.com/proxy
 nameserver /investigating.wordpress.com/proxy
 nameserver /invidio.us/proxy
