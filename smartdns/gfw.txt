@@ -5534,6 +5534,7 @@ nameserver /wikilivres.info/proxy
 nameserver /wikimapia.org/proxy
 nameserver /wikimedia.org/proxy
 nameserver /wikinews.org/proxy
+nameserver /wikipedia.com/proxy
 nameserver /wikipedia.org/proxy
 nameserver /wikisource.org/proxy
 nameserver /wikiversity.org/proxy
