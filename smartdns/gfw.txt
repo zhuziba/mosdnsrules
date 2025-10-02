@@ -4696,8 +4696,10 @@ nameserver /tanc.org/proxy
 nameserver /tangren.us/proxy
 nameserver /tanks.gg/proxy
 nameserver /taoism.net/proxy
+nameserver /tap.io/proxy
 nameserver /tapanwap.com/proxy
 nameserver /tapatalk.com/proxy
+nameserver /taptap.io/proxy
 nameserver /tardigrade.io/proxy
 nameserver /tarr.uspto.gov/proxy
 nameserver /taup.net/proxy
