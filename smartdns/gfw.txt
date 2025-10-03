@@ -118,6 +118,7 @@ nameserver /91porny.com/proxy
 nameserver /91vps.club/proxy
 nameserver /92ccav.com/proxy
 nameserver /991.com/proxy
+nameserver /996.icu/proxy
 nameserver /99btgc01.com/proxy
 nameserver /99cn.info/proxy
 nameserver /9bis.com/proxy
