@@ -5318,6 +5318,7 @@ nameserver /vijayatemple.org/proxy
 nameserver /vilanet.me/proxy
 nameserver /vilavpn.com/proxy
 nameserver /vimeo.com/proxy
+nameserver /vimeocdn.com/proxy
 nameserver /vimperator.org/proxy
 nameserver /vincnd.com/proxy
 nameserver /vine.co/proxy
