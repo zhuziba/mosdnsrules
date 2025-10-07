@@ -4476,6 +4476,7 @@ nameserver /solana.com/proxy
 nameserver /solarsystem.nasa.gov/proxy
 nameserver /solidaritetibet.org/proxy
 nameserver /solidfiles.com/proxy
+nameserver /solscan.io/proxy
 nameserver /solv.finance/proxy
 nameserver /somee.com/proxy
 nameserver /songjianjun.com/proxy
