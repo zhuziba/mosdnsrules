@@ -1803,6 +1803,8 @@ nameserver /freedominfonetweb.wordpress.com/proxy
 nameserver /freedomsherald.org/proxy
 nameserver /freeforums.org/proxy
 nameserver /freegao.com/proxy
+nameserver /freegpt.es/proxy
+nameserver /freegpt.tech/proxy
 nameserver /freehongkong.org/proxy
 nameserver /freeilhamtohti.org/proxy
 nameserver /freekazakhs.org/proxy
