@@ -363,6 +363,7 @@ nameserver /asia-gaming.com/proxy
 nameserver /asiaharvest.org/proxy
 nameserver /asianage.com/proxy
 nameserver /asianews.it/proxy
+nameserver /asianfanfics.com/proxy
 nameserver /asiansexdiary.com/proxy
 nameserver /asiaone.com/proxy
 nameserver /asiatgp.com/proxy
@@ -5013,6 +5014,7 @@ nameserver /trt.net.tr/proxy
 nameserver /trtc.com.tw/proxy
 nameserver /truebuddha-md.org/proxy
 nameserver /trulyergonomic.com/proxy
+nameserver /trustwallet.com/proxy
 nameserver /truthsocial.com/proxy
 nameserver /truveo.com/proxy
 nameserver /tryheart.jp/proxy
@@ -5842,6 +5844,7 @@ nameserver /z-lib.gd/proxy
 nameserver /z-lib.gl/proxy
 nameserver /z-lib.io/proxy
 nameserver /z-lib.org/proxy
+nameserver /z-library.ec/proxy
 nameserver /z-library.sk/proxy
 nameserver /zacebook.com/proxy
 nameserver /zalmos.com/proxy
