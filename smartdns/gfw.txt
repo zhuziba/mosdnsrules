@@ -1346,6 +1346,7 @@ nameserver /dnvod.tv/proxy
 nameserver /doc.new/proxy
 nameserver /docker.com/proxy
 nameserver /docker.io/proxy
+nameserver /dockerstatus.com/proxy
 nameserver /docs.deno.com/proxy
 nameserver /docs.new/proxy
 nameserver /doctorvoice.org/proxy
