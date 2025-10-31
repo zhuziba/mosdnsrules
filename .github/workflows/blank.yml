@@ -14,7 +14,7 @@ jobs:
       run: echo `date` > ./date.log
     - name: del
       run: |
-        rm -rf ./smartdns/gfw.conf
+        rm -rf ./smartdns/gfw.txt
     - name: down smartdns
       run: |
         mkdir -p ./smartdns
