@@ -14,7 +14,7 @@ jobs:
       run: echo `date` > ./date.log
     - name: del
       run: |
-        rm -rf ./js/dm/动作片
+        rm -rf ./smartdns/gfw.conf
     - name: down smartdns
       run: |
         mkdir -p ./smartdns
@@ -26,8 +26,8 @@ jobs:
         sed -i "s|server=/|nameserver /|; s|/114.114.114.114|/china|" ./smartdns/apple.china.conf
         wget -O ./smartdns/google.china.conf https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/google.china.conf
         sed -i "s|server=/|nameserver /|; s|/114.114.114.114|/china|" ./smartdns/google.china.conf
-        wget -O ./smartdns/gfw.txt https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
-        sed -i "s/^/nameserver \//g;s/$/\/proxy/g" ./smartdns/gfw.txt
+        wget -O ./smartdns/gfw.conf https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/gfw.txt
+        sed -i "s/^/nameserver \//g;s/$/\/proxy/g" ./smartdns/gfw.conf
     - name: down cdns
       run: |
         mkdir -p ./cdns
