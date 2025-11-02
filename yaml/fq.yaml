@@ -1,5 +1,6 @@
 payload:
 - DOMAIN-SUFFIX,hostloc.com
+- DOMAIN-SUFFIX,pypi.org
 - DOMAIN-SUFFIX,live.com 
 - DOMAIN-SUFFIX,live-video.net
 - DOMAIN-SUFFIX,sooplive.co.kr
