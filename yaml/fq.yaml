@@ -45,6 +45,7 @@ payload:
 - DOMAIN-SUFFIX,aeonfree.com
 - DOMAIN-SUFFIX,jsdelivr.net
 - DOMAIN-SUFFIX,pythonhosted.org
+- DOMAIN-SUFFIX,python.org
 - DOMAIN-SUFFIX,hz.cz
 - DOMAIN-SUFFIX,mega.nz
 - DOMAIN-SUFFIX,mega.co.nz
