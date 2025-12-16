@@ -5,6 +5,7 @@ payload:
 - DOMAIN-SUFFIX,cloudshell.dev
 - DOMAIN-SUFFIX,googlezip.net
 - DOMAIN-SUFFIX,google.com
+- DOMAIN-SUFFIX,google.com.sg
 - DOMAIN-SUFFIX,google.fi
 - DOMAIN-SUFFIX,google.ru
 - DOMAIN-SUFFIX,google.es
