@@ -48,6 +48,7 @@ payload:
 - DOMAIN-SUFFIX,pythonhosted.org
 - DOMAIN-SUFFIX,python.org
 - DOMAIN-SUFFIX,hz.cz
+- DOMAIN-SUFFIX,brew.sh
 - DOMAIN-SUFFIX,typora.io
 - DOMAIN-SUFFIX,mega.nz
 - DOMAIN-SUFFIX,mega.co.nz
