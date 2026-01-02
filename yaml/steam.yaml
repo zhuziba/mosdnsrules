@@ -1,23 +1,8 @@
 payload:
 #steam
-- DOMAIN-SUFFIX,s.team
-- DOMAIN-SUFFIX,steamui.com
-- DOMAIN-SUFFIX,akamaihd.net
-- DOMAIN-SUFFIX,akamaiedge.net
-- DOMAIN-SUFFIX,akamaized.net
-- DOMAIN-SUFFIX,steamserver.net
-- DOMAIN-SUFFIX,steamstatic.com
-- DOMAIN-SUFFIX,steamloopback.host
-- DOMAIN-SUFFIX,steamcontent.com
 - DOMAIN-SUFFIX,steampowered.com
-- DOMAIN-SUFFIX,steamcommunity.com
-- DOMAIN-SUFFIX,steam-chat.com
-- DOMAIN-SUFFIX,steamtools.info
-- DOMAIN-SUFFIX,ea.com
-- DOMAIN-SUFFIX,tnt-ea.com
 #游戏
 - DOMAIN-SUFFIX,gaggle.fun
 - DOMAIN-SUFFIX,multiplay.com
 - DOMAIN-SUFFIX,cloudfunctions.net
 - DOMAIN-SUFFIX,oncatapult.com
-- DOMAIN-SUFFIX,fallguys-prod-player-level.azureedge.net
