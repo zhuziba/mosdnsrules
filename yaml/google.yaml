@@ -22,6 +22,7 @@ payload:
 - DOMAIN-SUFFIX,youtubekids.com
 - DOMAIN-SUFFIX,youtube-nocookie.com
 - DOMAIN-SUFFIX,yt.be
+- DOMAIN-SUFFIX,gvt2.com
 - DOMAIN-SUFFIX,dns.google
 - DOMAIN-SUFFIX,pki.goog
 - DOMAIN-SUFFIX,youtu.be
@@ -44,12 +45,3 @@ payload:
 - DOMAIN-SUFFIX,gmail.com
 - DOMAIN-SUFFIX,withgoogle.com
 - DOMAIN-SUFFIX,xn--flw351e.com
- #GOOGLE- Google LLC, US
-- IP-CIDR,64.233.160.0/19
-- IP-CIDR,34.104.0.0/14
-- IP-CIDR,74.125.0.0/16
-- IP-CIDR,172.253.118.0/24
-- IP-CIDR,172.217.0.0/16
-- IP-CIDR,173.194.0.0/16
-- IP-CIDR,142.250.0.0/15
-- IP-CIDR,108.177.0.0/17
