@@ -1,6 +1,7 @@
 payload:
 #steam
 - DOMAIN-SUFFIX,steampowered.com
+- DOMAIN-SUFFIX,steamcommunity.com
 #游戏
 - DOMAIN-SUFFIX,gaggle.fun
 - DOMAIN-SUFFIX,multiplay.com
