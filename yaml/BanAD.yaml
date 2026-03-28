@@ -36,3 +36,9 @@ payload:
  - DOMAIN-SUFFIX,easytomessage.com
  - DOMAIN-SUFFIX,pglstatp-toutiao.com
  - DOMAIN,sdk.alibaba.com.ailbaba.me
+ - DOMAIN,swdist.apple.com
+ - DOMAIN,swscan.apple.com
+ - DOMAIN,swcdn.apple.com
+ - DOMAIN,gdmf.apple.com
+ - DOMAIN,mesu.apple.com
+ - DOMAIN,xp.apple.com
