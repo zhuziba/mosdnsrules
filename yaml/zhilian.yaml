@@ -30,3 +30,5 @@ payload:
 - DOMAIN-SUFFIX,megaup.net
  #top
 - DOMAIN-SUFFIX,pai233.top
+#cf
+- DOMAIN-SUFFIX,cloudflare-gateway.com
