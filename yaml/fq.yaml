@@ -1,5 +1,4 @@
 payload:
-- DOMAIN-SUFFIX,ubuntu.com
 - DOMAIN-SUFFIX,tclient.app
 - DOMAIN-SUFFIX,97img.com
 - DOMAIN-SUFFIX,mosavi.io
