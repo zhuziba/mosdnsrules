@@ -1,5 +1,6 @@
 payload:
 - DOMAIN-SUFFIX,huggingface.co
+- DOMAIN-SUFFIX,hf.co
 - DOMAIN-SUFFIX,clarity.ms
 - DOMAIN-SUFFIX,third.win
 - DOMAIN-SUFFIX,tclient.app
