@@ -1,6 +1,7 @@
 payload:
 - DOMAIN-SUFFIX,about.google
 - DOMAIN-SUFFIX,chromeos.google
+- DOMAIN-SUFFIX,chromeenterprise.google
 - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
 - DOMAIN-SUFFIX,sustainability.google
 - DOMAIN-SUFFIX,cloudshell.dev
