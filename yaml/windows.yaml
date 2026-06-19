@@ -10,3 +10,5 @@ payload:
  - DOMAIN-SUFFIX,microsoft.com
  - DOMAIN-SUFFIX,live.com
  - DOMAIN-SUFFIX,onedrive.com
+ - DOMAIN-SUFFIX,chatgpt.com
+ - DOMAIN-SUFFIX,openai.com
