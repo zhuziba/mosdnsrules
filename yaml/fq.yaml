@@ -1,4 +1,6 @@
 payload:
+- DOMAIN-SUFFIX,tiktok.com
+- DOMAIN-SUFFIX,tiktokcdn-us.com
 - DOMAIN-SUFFIX,sourceforge.net
 - DOMAIN-SUFFIX,huggingface.co
 - DOMAIN-SUFFIX,clarity.ms
