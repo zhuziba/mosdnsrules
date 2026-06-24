@@ -1,6 +1,7 @@
 payload:
 - DOMAIN-SUFFIX,tiktokcdn.com
 - DOMAIN-SUFFIX,tiktokv.us
+- DOMAIN-SUFFIX,tiktokv.com
 - DOMAIN-SUFFIX,tiktok.com
 - DOMAIN-SUFFIX,tiktokcdn-us.com
 - DOMAIN-SUFFIX,sourceforge.net
