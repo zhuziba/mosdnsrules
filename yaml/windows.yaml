@@ -1,7 +1,6 @@
 payload:
  - DOMAIN-SUFFIX,msn.cn
  - DOMAIN-SUFFIX,msn.com
- - DOMAIN-SUFFIX,bing.com
  - DOMAIN-SUFFIX,bingapis.com
  - DOMAIN-SUFFIX,windows.com
  - DOMAIN-SUFFIX,windows.net
