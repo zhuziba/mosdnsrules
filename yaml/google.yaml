@@ -10,6 +10,7 @@ payload:
 - DOMAIN-SUFFIX,google.com.sg
 - DOMAIN-SUFFIX,google.fi
 - DOMAIN-SUFFIX,google.ru
+- DOMAIN-SUFFIX,google.nl
 - DOMAIN-SUFFIX,google.es
 - DOMAIN-SUFFIX,google.com.au
 - DOMAIN-SUFFIX,google.com.ph
