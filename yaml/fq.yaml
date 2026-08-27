@@ -2,7 +2,6 @@ payload:
 - DOMAIN-SUFFIX,cloudflare.com
 - DOMAIN-SUFFIX,cloudflare-ech.com
 - DOMAIN-SUFFIX,hcaptcha.com
-- DOMAIN-SUFFIX,nextendo.network
 - DOMAIN-SUFFIX,flathub.org
 - DOMAIN-SUFFIX,tensor.art
 - DOMAIN-SUFFIX,uu-gg.one
