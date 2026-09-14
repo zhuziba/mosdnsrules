@@ -69,6 +69,7 @@ payload:
 - DOMAIN-SUFFIX,discordapp.net
 - DOMAIN-SUFFIX,discord.com
 - DOMAIN-SUFFIX,nswgame.com
+- DOMAIN-SUFFIX,send.now
 - DOMAIN-SUFFIX,download-send.com
 - DOMAIN-SUFFIX,1link.club
 - DOMAIN-SUFFIX,linshiyou.com
