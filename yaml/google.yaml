@@ -26,6 +26,7 @@ payload:
 - DOMAIN-SUFFIX,youtube-nocookie.com
 - DOMAIN-SUFFIX,yt.be
 - DOMAIN-SUFFIX,gvt2.com
+- DOMAIN-SUFFIX,gvt1.com
 - DOMAIN-SUFFIX,dns.google
 - DOMAIN-SUFFIX,pki.goog
 - DOMAIN-SUFFIX,youtu.be
