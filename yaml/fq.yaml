@@ -8,6 +8,7 @@ payload:
 - DOMAIN-SUFFIX,mxcontent.net
 - DOMAIN-SUFFIX,manus.im
 - DOMAIN-SUFFIX,groq.com
+- DOMAIN-SUFFIX,twimg.com
 - DOMAIN-SUFFIX,git.io
 - DOMAIN-SUFFIX,tiktokcdn.com
 - DOMAIN-SUFFIX,tiktokv.us
