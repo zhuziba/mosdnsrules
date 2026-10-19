@@ -11,3 +11,4 @@ payload:
  - DOMAIN-SUFFIX,onedrive.com
  - DOMAIN-SUFFIX,chatgpt.com
  - DOMAIN-SUFFIX,openai.com
+ - DOMAIN-SUFFIX,sora.com
