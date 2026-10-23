@@ -37,6 +37,12 @@ payload:
  - DOMAIN-SUFFIX,pglstatp-toutiao.com
  - DOMAIN,sdk.alibaba.com.ailbaba.me
  - DOMAIN,swdist.apple.com
+ - DOMAIN-WILDCARD,*-misc-lq.fqnovel.com
+ - DOMAIN-WILDCARD,*-reading-ad.qznovelvod.com
+ - DOMAIN-WILDCARD,*-ad-sign.byteimg.com
+ - DOMAIN-WILDCARD,*-iosreadingvideo.qznovelvod.com
+ - DOMAIN-WILDCARD,ads*-normal-l*.zijieapi.com
+ - DOMAIN-SUFFIX,v11-reading-video.qznovelvod.com
  - DOMAIN,swscan.apple.com
  - DOMAIN,swcdn.apple.com
  - DOMAIN,gdmf.apple.com
